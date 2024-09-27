@@ -1,0 +1,601 @@
+,ID,Text,Extension,Complexity,Real_Fake,Sentiment1,Sentiment2,Political,Width,Height,Channels,Mime,ImageFileSize,TextSizeChar,TextSizeBytes,TextUppercase,TextLowercase
+0,100001,"PROTESTELE DIN FRANTA
+PROTESTELE DIN ROMANIA",jpg,Combination,Fake,Negative,Sadness,Yes,597,435,3,image/jpeg,28090,44,44,Yes,No
+1,100002,"cine e impotriva pensiilor  speciale
+cine vrea sa protesteze impotriva pensiilor speciale",jpg,Combination,Fake,Negative,Sadness,Yes,591,487,3,image/jpeg,50369,89,89,No,Yes
+2,100003,"Închiriez apartament cu 2 camere, recent renovat, situat într-o zonă bună, utilat, etc. 
+Preț: 1000 de euro pe lună, nu se negociază, rog seriozitate.",jpg,Simple,Real,Negative,Sadness,No,584,477,3,image/jpeg,38837,150,157,No,No
+3,100004,"Eu, uitându-mă pe ultimele sondaje politice din România:",jpg,Simple,Real,Negative,Anger,Yes,567,504,3,image/jpeg,47183,56,59,No,No
+4,100005,"Dorel electricianul : *Face o improvizație la sistemul electric* 
+Eu, pe patul de ATI :",jpg,Simple,Real,Negative,Fear,No,592,487,3,image/jpeg,37580,87,88,No,No
+5,100006,"SPALATORIE DE PACATE  
+SPALATORIE DE PACATE 
+SPALATORIE DE PACATE CU AGHEASMA SUB PRESIUNE",jpg,Simple,DeepFake,Neutral,Surprise,No,571,313,3,image/jpeg,26712,90,90,Yes,No
+6,100007,Când încerci să înțelegi logica șoferilor care claxonează deși semaforul este roșu,jpg,Combination,Fake,Negative,Anger,No,545,484,3,image/jpeg,38267,82,91,No,No
+7,100008,EU EXPLICANDU-LE ROMANILOR CA NU E OK SA FACA MISTO CAND ESTE UN SUBIECT SERIOS,jpg,Simple,Real,Negative,Anger,No,593,454,3,image/jpeg,60691,79,79,Yes,No
+8,100009,"de post 
+vegan",jpg,Combination,Fake,Neutral,Anger,No,595,449,3,image/jpeg,31532,14,14,No,Yes
+9,100010,"5 lei în copilărie 
+50 de lei în adolescență 
+2000 de lei în viața de adult",jpg,Combination,Fake,Negative,Sadness,No,551,512,3,image/jpeg,49992,75,82,No,Yes
+10,100011,"Amator ,,Banii sau viața!"" 
+Profesionist ,,Semnează aici pentru încheierea acordului de vasalitate""",jpg,Combination,Real,Negative,Sadness,No,502,512,3,image/jpeg,31951,99,102,No,No
+11,100012,Aicea merge niște porumb,jpg,Simple,Fake,Negative,Surprise,Yes,590,443,3,image/jpeg,60873,24,25,No,No
+12,100013,"UBB: -Ai plagiat 
+Politician român",jpg,Simple,Fake,Negative,Fear,Yes,495,517,3,image/jpeg,48502,34,35,No,No
+13,100014,"LIDL 
+RONALDO 
+7",jpg,Simple,DeepFake,Neutral,Surprise,No,552,498,3,image/jpeg,38214,16,16,Yes,No
+14,100015,După atâția ani de matematica am găsit radacina pătrată,jpg,Simple,Real,Positive,Joy,No,569,472,3,image/jpeg,46287,55,61,No,No
+15,100016,LE-AM SPUS APOI CA NU VOM MAI EXTINDE SCHENGEN PANA NU SECURIZAM GRANITELE,jpg,Simple,Real,Negative,Anger,Yes,598,385,3,image/jpeg,39244,74,74,Yes,No
+16,100017,Așteptând să vină apa caldă,jpg,Simple,Fake,Negative,Sadness,Yes,573,480,3,image/jpeg,29203,27,32,No,No
+17,100018,"Big Mac 
+Sarma",jpg,Combination,Real,Positive,Joy,No,579,512,3,image/jpeg,36382,14,14,No,No
+18,100019,"69 
+”Greu de ucis”",jpg,Simple,Fake,Neutral,Fear,Yes,576,619,3,image/jpeg,75793,18,22,No,No
+19,100020,CINE NU IUBESTE SIMPLITATEA DE LA APPLE?,jpg,Simple,Real,Negative,Anger,No,576,576,3,image/jpeg,65785,40,40,Yes,No
+20,100021,Pentru cine a zis ca matematica nu e folositoare,jpg,Simple,Real,Neutral,Joy,No,576,792,3,image/jpeg,55832,48,48,No,No
+21,100022,"SĂ VEZI CE O SĂ SE BUCURE ȘEFU' 
+CĂ AM AJUNS PRIMII LA LOCUL ACCIDENTULUI",jpg,Simple,Real,Negative,Anger,No,576,384,3,image/jpeg,55224,73,77,Yes,No
+22,100023,"Știi să furi? 
+Da 
+Ești angajat! 
+Guvernu României",jpg,Combination,Fake,Negative,Anger,Yes,576,620,3,image/jpeg,50405,50,54,No,No
+23,100024,"Maestre, da-mi un sfat bun pentru zilele noastre 
+Oriunde te-ai duce, 
+nu uita incarcatorul",jpg,Simple,Real,Positive,Surprise,No,576,530,3,image/jpeg,55106,91,91,No,No
+24,100025,AI TĂI DUPĂ CE TE ÎNTORCI LA ȘCOLALĂ,jpg,Simple,Real,Positive,Joy,No,576,426,3,image/jpeg,45920,36,41,Yes,No
+25,100026,"Intervievatorul: Ai vreo experiență în rol de conducere? 
+Eu: Păi, sunt adminul unui grup de Whatsapp.",jpg,Simple,Real,Neutral,Surprise,No,576,543,3,image/jpeg,50948,102,106,No,No
+26,100027,CUM NUMĂRĂ UN INGINER OILE CÂND VREA SĂ ADOARMĂ,jpg,Simple,Fake,Negative,Sadness,No,576,832,3,image/jpeg,81806,47,52,Yes,No
+27,100028,"BAC 
+TU",jpg,Simple,Real,Negative,Fear,No,576,605,3,image/jpeg,47578,7,7,Yes,No
+28,100029,Rasismul explcat idioților,jpg,Combination,Real,Negative,Anger,No,576,731,3,image/jpeg,39107,26,27,No,No
+29,100030,"DE 1 IUNIE 
+SĂ NU UITĂM DE CEI MICI",jpg,Simple,Real,Positive,Joy,No,576,383,3,image/jpeg,62634,35,37,Yes,No
+30,100031,"007 
+0,7",jpg,Combination,Real,Negative,Surprise,No,576,765,3,image/jpeg,40433,8,8,Yes,Yes
+31,100032,"AVEȚI COVRIGEI LA 1 LEU? 
+DA! 
+CÂT COSTĂ?",jpg,Combination,DeepFake,Negative,Surprise,Yes,576,744,3,image/jpeg,75126,41,44,Yes,No
+32,100033,"Sunt pe dieta! 
+Mănânc doar morcovi",jpg,Simple,Real,Negative,Surprise,No,576,703,3,image/jpeg,66644,35,37,No,No
+33,100034,"UNDE SE AFLA FRANTA? 
+AICI 
+UNDE SE AFLA BRAZILIA?
+AICI 
+UNDE SE AFLA Oltenia? 
+AICI",jpg,Combination,Real,Positive,Love,No,576,1024,3,image/jpeg,79535,84,84,No,No
+34,100035,Următorul task este să îți faci temele fără acces la internet,jpg,Simple,Real,Negative,Fear,No,576,493,3,image/jpeg,51382,61,67,No,No
+35,100036,FRATE?,jpg,Simple,Real,Neutral,Surprise,No,576,503,3,image/jpeg,49842,6,6,Yes,No
+36,100037,"2022 
+2024",jpg,Combination,Real,Negative,Anger,No,593,683,3,image/jpeg,49708,10,10,Yes,Yes
+37,100038,"Ce folosesc pentru a face duș:
+ Femeile:
+ Bărbații:
+ BALSAM
+ Mămăligă cu brânză de capră",jpg,Combination,Real,Neutral,Surprise,No,589,711,3,image/jpeg,73010,88,97,No,No
+38,100039,"Bihorenii în priul rând. 
+Pentru Consiliul Județean Bihor",jpg,Simple,Real,Negative,Sadness,Yes,675,691,3,image/jpeg,50844,57,60,No,No
+39,100040,Cine o fi șef la UEFA?,jpg,Simple,Real,Negative,Surprise,Yes,640,360,3,image/jpeg,39008,22,23,No,No
+40,100041,"500 LEI 
+O eugenie",jpg,Combination,Fake,Negative,Anger,No,709,708,3,image/jpeg,57749,18,18,No,No
+41,100042,SELLY LA SUMMIT-UL NATO,jpg,Simple,DeepFake,Neutral,Surprise,Yes,700,699,3,image/jpeg,66884,23,23,Yes,No
+42,100043,"Intoarcerea la serviciu dupa un weekend prelungit 
+Angajatii fara copii 
+Oof, iar locul ăsta! 
+Angajatii cu copii mici 
+Bună ziua, muncăăăă! Uhuu!!!!",jpg,Combination,Fake,Neutral,Joy,No,581,686,3,image/jpeg,70841,149,155,No,No
+43,100044,Prima mea intalnre cu Irina eram la ea la poartă si ieșise măsa-mare  s-o strige că i a făcut urzici cu niște ouă ochi,jpg,Simple,Real,Neutral,Surprise,No,683,706,3,image/jpeg,75485,118,125,No,No
+44,100045,"Buzunarul stang 
+Buzunarul drept",jpg,Combination,Real,Neutral,Surprise,No,744,610,3,image/jpeg,42278,32,32,No,No
+45,100046,Eu cu salariul in mana incercand sa imi aduc aminte cand a lucrat guvernul jumatate din turele mele,jpg,Simple,Real,Negative,Anger,Yes,589,582,3,image/jpeg,41408,99,99,No,No
+46,100047,"Clotilde e o Șoșoacă pentru bula educată 
+CHANGE MY MIND",jpg,Simple,DeepFake,Negative,Anger,Yes,482,360,3,image/webp,39590,56,60,No,No
+47,100048,"""Securist încercând să-nțeleagă nota informativă a lui Nicușor Dan""",jpg,Simple,Real,Neutral,Surprise,Yes,851,697,3,image/jpeg,73625,67,74,No,No
+48,100049,INCA 4 ANI CU BORDURI SI PALMIERI IN S3,jpg,Simple,Real,Negative,Anger,Yes,612,408,3,image/jpeg,65216,39,39,Yes,No
+49,100050,"BIBLIOTECA PENTRU TOȚI COPIII
+AMINTIRI DIN COPILĂRIE 
+Ion Creangă",jpg,Simple,DeepFake,Positive,Joy,No,536,703,3,image/jpeg,70031,65,68,No,No
+50,100051,SIFOANE,jpg,Simple,DeepFake,Negative,Anger,Yes,623,708,3,image/jpeg,83810,7,7,Yes,No
+51,100052,"Vanzatoarea : 
+- Sunt 62 de lei. 
+-Am 100. 
+-Da-mi 12 sa-ti dau 50, sau 2 sa-ti dau 40. 
+Eu :",jpg,Simple,Fake,Negative,Surprise,No,797,701,3,image/jpeg,44330,93,93,No,No
+52,100053,Cand tai un copac in Sibiu,jpg,Simple,DeepFake,Positive,Surprise,No,775,698,3,image/jpeg,76645,26,26,No,No
+53,100054,DUPĂ ALEGERI DEVIN VEGETARIAN,jpg,Simple,Real,Negative,Anger,Yes,701,698,3,image/jpeg,106382,29,30,Yes,No
+54,100055,"firmele care fac bannere publicitare, în perioada alegerilor 
+stonks",jpg,Simple,Fake,Neutral,Joy,No,730,756,3,image/jpeg,86914,68,69,No,Yes
+55,100056,"Cea mai mare minciuna: 
+https://forms.gle/wzqNoy3e9hpA9fdk8 
+Lucrade de Licență 
+Lucrade de Licență 
+Dureaza 5 min",jpg,Simple,Real,Negative,Sadness,No,750,744,3,image/jpeg,68138,114,118,No,No
+56,100057,MI-A ZIS UN COPIL ”SARU' MANA”,jpg,Simple,Real,Negative,Sadness,No,749,477,3,image/jpeg,94287,30,34,Yes,No
+57,100058,"Mihai, tu mi-ai pus praf saharian pe Logan?!",jpg,Simple,Real,Negative,Surprise,No,750,503,3,image/jpeg,46225,44,44,No,No
+58,100059,"Când ești cu naveta și aștepți să termine profesoara de vorbit la începutul ultimei ore, ca să ceri voie să pleci că îți pornește autobuzul imediat",jpg,Simple,Real,Neutral,Fear,No,599,759,3,image/jpeg,72024,147,160,No,No
+59,100060,"INCALZIREA GLOBALA 
+ASA A VRUT DUMNEZEU 
+16 GRADE IARNA",jpg,Simple,Real,Negative,Sadness,No,750,746,3,image/jpeg,60976,55,55,Yes,No
+60,100061,"Și, cum ai de gând să o impresionezi? 
+El:",jpg,Simple,Real,Negative,Surprise,No,750,692,3,image/jpeg,103682,42,45,No,No
+61,100062,"Bună ziua! Mă numesc Alex Nedea și sunt jurnalist la Recorder. 
+Om de afaceri cu legături politice 
+Aș vrea să vă pun câteva întrebări... 
+...legate de contractele firmei dumneavoastră cu statul român.",jpg,Combination,Real,Negative,Anger,Yes,749,753,3,image/jpeg,95888,201,213,No,No
+62,100063,"În drum spre parcarea laterală după ce ți-a murit motorul de 12 ori deja 
+Examen",jpg,Simple,Fake,Negative,Sadness,No,603,752,3,image/jpeg,72604,80,84,No,No
+63,100064,"Klaus Iohannis 
+43m 
+Asta cu 3 euro in plus la Netflix pentru fiecare locuință mi se pare o prostie, sincer! 
+20,2K 
+7,0K Comments 2,8K Shares 
+Like Comment Share",jpg,Simple,DeepFake,Negative,Anger,Yes,749,558,3,image/jpeg,32932,162,164,No,No
+64,100065,"Da bani la profesori or draw 25 
+Guvern",jpg,Combination,Real,Negative,Anger,Yes,749,750,3,image/jpeg,54702,39,39,No,No
+65,100066,"MASCA ESTE OBLIGATORIE! 
+ROMÂNII:",jpg,Combination,Real,Negative,Sadness,No,932,617,3,image/jpeg,74335,33,34,Yes,No
+66,100067,"PROFESOARA DE FRANCEZĂ: SCRIEȚI UN ESEU DE 3 PAGINI! 
+EU: 
+Google Translate 
+Ctrl V",jpg,Combination,Real,Neutral,Joy,No,1340,775,3,image/jpeg,66912,83,86,No,No
+67,100068,"TE-AI PREGĂTIT PENTRU PREZENTAREA DE ASTĂZI, AI ÎNVĂȚAT TOTUL ȘI EȘTI GATA PENTRU ABSOLUT ORICE. 
+AUZI CĂ PROFESORUL TĂU A MURIT",jpg,Combination,Fake,Negative,Surprise,No,1920,1080,3,image/jpeg,251614,128,140,Yes,No
+68,100069,"-Bă frate cum naiba ai primit un 10? Ești corigent mai mereu... 
+Eu:",jpg,Simple,Real,Neutral,Surprise,No,1340,1078,3,image/jpeg,191783,68,72,No,No
+69,100070,APĂ CHIOARĂ,jpg,Simple,Fake,Neutral,Surprise,No,854,641,3,image/jpeg,20716,11,13,Yes,No
+70,100071,"0 - mesaje 0 - apeluri 
+10 - mesaje 7 - apeluri",jpg,Combination,Real,Negative,Anger,No,766,616,3,image/jpeg,47994,47,48,No,Yes
+71,100072,ȘTII CĂ BANANELE AU ACELE PETE NEGRE PENTRU CĂ ORGANIZEAZĂ LUPTE ILEGALE NOAPTEA?,jpg,Simple,Fake,Neutral,Surprise,No,1001,552,3,image/jpeg,68152,81,86,Yes,No
+72,100073,"YOUTUBE ÎNCĂRCÂND UN VIDEO: 
+YOUTUBE ÎNCĂRCÂND O RECLAMĂ:",jpg,Combination,Real,Negative,Anger,No,774,613,3,image/jpeg,60973,57,66,Yes,No
+73,100074,cum arăt versus cum ma vede bunica,jpg,Combination,Real,Positive,Love,No,613,549,3,image/jpeg,37122,34,35,No,Yes
+74,100075,"ÎNAINTE DE FILM: 
+TOT ÎNAINTE DE FILM:",jpg,Combination,Real,Neutral,Surprise,No,964,561,3,image/jpeg,42633,38,41,Yes,No
+75,100076,"DE AZI SUNT LA DIETĂ, ÎN LOC DE 6 FELII DE PIZZA MĂNÂNC DOAR 3",jpg,Combination,Real,Negative,Surprise,No,750,573,3,image/jpeg,58501,62,68,Yes,No
+76,100077,GTA San Maramureș,jpg,Simple,Fake,Neutral,Surprise,No,616,508,3,image/jpeg,48605,17,18,No,No
+77,100078,"Eu la 3 noaptea 
+Frigiderul",jpg,Simple,Real,Neutral,Joy,No,621,624,3,image/jpeg,50677,27,27,No,No
+78,100079,"ACEL MOMENT CÂND VEZI O GROAPĂ, DAR E PREA TÂRZIU SĂ O MAI EVIȚI:",jpg,Combination,Real,Negative,Surprise,No,931,610,3,image/jpeg,75459,65,73,Yes,No
+79,100080,"când ai dormit 20 ore , dar mai tragi un pui de somn repede",jpg,Simple,Real,Negative,Joy,No,675,587,3,image/jpeg,57223,59,61,No,Yes
+80,100081,"PROFESORUL: NU PUTEȚI SĂ FOLOSIȚI TELEFOANELE, CEASURILE INTELIGENTE SAU LAPTOPUI-LE LA TEST. 
+EU:",jpg,Simple,Real,Neutral,Surprise,No,951,592,3,image/jpeg,48823,98,104,Yes,No
+81,100082,"O SĂ MĂ APUC DE ÎNVĂȚAT LA 11. 
+CEASUL MEU: 
+10:65",jpg,Simple,Real,Negative,Surprise,No,1505,898,3,image/jpeg,111282,50,56,Yes,No
+82,100083,"CUM VĂD PĂRINȚII ȘCOALA:
+CUM VĂD COPII ȘCOALA:",jpg,Combination,Real,Negative,Fear,No,1071,585,3,image/jpeg,73007,46,53,Yes,No
+83,100084,"Munikipiul București - PMkB 
+10 septembrie la 18:08 
+© Ionuț Oprea 
+Urmeaza statia Drumul Taberei cu peronul pe partea stanga",jpg,Combination,Real,Positive,Joy,No,512,486,3,image/jpeg,48319,125,128,No,No
+84,100085,"Când ajungi prima oară în Cluj 
+recorder 
+Mai este mult până la metrou?",jpg,Simple,Real,Negative,Anger,No,512,305,3,image/png,139314,71,76,No,No
+85,100086,"VII ASTĂ-SEARĂ PE LA MINE? 
+AM APĂ CALDĂ.",jpg,Simple,Real,Negative,Joy,Yes,469,512,3,image/jpeg,52542,41,45,Yes,No
+86,100087,"Azi de dimineață într-un apartament din București 
+Hooo, Nicușor!",jpg,Simple,DeepFake,Neutral,Surprise,Yes,319,512,3,image/jpeg,35120,65,70,No,No
+87,100088,CINE A NINS SĂ STRÂNGĂ,jpg,Simple,Real,Negative,Surprise,Yes,512,340,3,image/jpeg,57615,22,25,Yes,No
+88,100089,"Neamurile, de Sărbători: când te însori, când faci copii? 
+Eu: 
+Îmi produceți un stres teribil",jpg,Simple,Real,Negative,Anger,No,476,512,3,image/jpeg,46332,94,101,No,No
+89,100090,"ASTA INSEAMNA 
+SA FII MAFIOT",jpg,Simple,Real,Neutral,Joy,No,512,341,3,image/jpeg,40216,28,28,Yes,No
+90,100091,"SĂ DAI TREI GOLURI ȘI SĂ IEI BĂTAIE CU 2-0 
+ASTA ÎNSEAMNĂ SĂ FII MAFIOT",jpg,Simple,Real,Negative,Anger,No,460,304,3,image/png,206647,71,78,Yes,No
+91,100092,"SPEIȘ 
+THE FINAL FRONTIER",jpg,Simple,Fake,Neutral,Surprise,No,512,288,3,image/jpeg,48759,25,26,Yes,No
+92,100093,"CÂND VEZI PRIMELE EXIT POLL-URI 
+CE-I, FĂ, ASTA?",jpg,Simple,Real,Negative,Anger,Yes,512,366,3,image/jpeg,57990,48,50,Yes,No
+93,100094,"CÂND VEZI CĂ S-A STRICAT GOOGLE 
+DAR PE TINE NU POT DA VINA",jpg,Simple,Real,Negative,Anger,Yes,512,320,3,image/jpeg,46313,59,61,Yes,No
+94,100095,"DAN BARNA, CITIND ZIARUL.",jpg,Simple,Real,Negative,Surprise,Yes,512,341,3,image/jpeg,38128,25,25,Yes,No
+95,100096,"Eu și prietena mea în cămin la 12 noaptea, ne certăm cu paznicul @studentnews.info",jpg,Simple,Real,Negative,Anger,No,512,512,3,image/jpeg,41764,82,86,No,No
+96,100097,"Buna ziua, aveti 2 secunde sa vorbim despre mantuitorul nostru Iisus Hristos?",jpg,Simple,Real,Neutral,Surprise,No,418,512,3,image/jpeg,24505,77,77,No,No
+97,100098,"TU 
+PISICA 
+bagi bradul în casă
+scoți globurile 
+împodobști 
+termini de împodobit",jpg,Combination,Real,Negative,Anger,No,370,512,3,image/jpeg,51188,81,87,No,No
+98,100099,"CE DACĂ FATA PE CARE O PLACI ARE IUBIT? 
+ȘI FOTBALUL ARE PORTAR ȘI TOT DAI GOL...",jpg,Simple,Real,Neutral,Surprise,No,512,286,3,image/jpeg,33198,81,84,Yes,No
+99,100100,"""Marian, bine că mi-ai adus telefonul, imbecilul dracului""",jpg,Simple,Real,Negative,Surprise,Yes,512,397,3,image/jpeg,48004,58,59,No,No
+100,200001,"SPUNE, UNDE ESTE PARTENERUL TĂU ?",jpg,Simple,Real,Neutral,Anger,No,640,399,3,image/jpeg,41508,33,34,Yes,No
+101,200002,Cum se uită un șofer de BMW la linia de tramvai liberă,jpg,Simple,Fake,Negative,Love,No,518,487,3,image/jpeg,37296,54,57,No,No
+102,200003,Mama uitandu-se la mine in timp ce pun o farfurie murdara in chiuveta proaspat golita,jpg,Simple,Fake,Negative,Anger,No,575,503,3,image/jpeg,48529,85,85,No,No
+103,200004,Bucurestean in hainele de casa pe timpul iernii,jpg,Simple,Fake,Negative,Anger,Yes,551,484,3,image/jpeg,40359,47,47,No,No
+104,200005,eu: putem sa ne oprim la McDrive? maica-mea: avem McDrive acasa  McDrive acasa:,jpg,Simple,Real,Negative,Surprise,No,540,449,3,image/jpeg,54055,79,79,No,No
+105,200006,CÂINELE MEU CÂND MĂNÂNC CEVA:,jpg,Simple,Fake,Neutral,Love,No,598,360,3,image/jpeg,37021,29,33,Yes,No
+106,200007,Așteptând să vină apa caldă,jpg,Combination,Fake,Negative,Sadness,Yes,573,480,3,image/jpeg,29421,27,32,No,No
+107,200008,"dau chirie in Cluj: spatioasa, pat dublu, vedere la piscina, 439eur,fara cheltuieli",jpg,Simple,Real,Negative,Anger,Yes,551,456,3,image/jpeg,39366,83,83,No,No
+108,200009,Când vrei să te răzbuni pe musca care nu te-a lăsat să dormi toată noaptea,jpg,Simple,Real,Negative,Anger,No,550,675,3,image/jpeg,52417,74,80,No,No
+109,200010,Când încerc sa mănânc noaptea în liniște și scap lingura pe jos,jpg,Simple,Real,Negative,Sadness,No,736,736,3,image/jpeg,63040,63,70,No,No
+110,200011,NU ARUNCĂ LUMEA CU OUĂ ÎN TINE DACĂ SUNT PREA SCUMPE,jpg,Combination,Fake,Negative,Anger,Yes,571,452,3,image/jpeg,28651,52,56,Yes,No
+111,200012,Eu la munca incercand sa par ocupat,jpg,Simple,Fake,Neutral,Sadness,No,498,556,3,image/jpeg,41073,35,35,No,No
+112,200013,Cand te uiti la ceas sa vezi cat mai ai de dormit si vezi ca mai sunt 5 minute pana suna alarma,jpg,Simple,Fake,Negative,Sadness,No,589,519,3,image/jpeg,41420,95,95,No,No
+113,200014,Atunci cand un coleg pune o intrebare care lungeste sedinta cu 25 de minute.,jpg,Simple,Real,Negative,Anger,No,640,524,3,image/jpeg,45837,76,76,No,No
+114,200015,CAND ESTI SINGUR ACASA SI AUZI UN ZGOMOT,jpg,Simple,Fake,Negative,Fear,No,534,435,3,image/jpeg,29442,40,40,Yes,No
+115,200016,CAND COBORI LA TOMBERON SA ARUNCI GUNOIUL,jpg,Simple,Real,Positive,Joy,No,606,316,3,image/jpeg,22825,41,41,Yes,No
+116,200017,Mamele uitându-se la copiii lor cum cresc și se duc la facultate:,jpg,Simple,Fake,Neutral,Sadness,No,589,302,3,image/jpeg,21053,65,67,No,No
+117,200018,Prietenul tău care a venit cu 2 alți băieți la petrecerea ta,jpg,Simple,Fake,Negative,Surprise,No,552,506,3,image/jpeg,39286,60,64,No,No
+118,200019,Cuplurile după 9 luni de carantină împreună,jpg,Simple,Fake,Negative,Anger,No,700,527,3,image/jpeg,57534,43,47,No,No
+119,200020,Eu încercând să par relaxat uitându-mă la televizor în timp ce mama vorbește cu diriginta la telefon,jpg,Simple,Fake,Neutral,Fear,No,526,592,3,image/jpeg,35659,100,107,No,No
+120,200021,Dintele meu cariat uitându-se la mine cum plătesc ultimii 300€ pentru haine băutură și țigări în loc să mă duc la dentist,jpg,Combination,Fake,Negative,Anger,No,505,540,3,image/jpeg,50352,121,133,No,No
+121,200022,Când te-ai gătit 3 ore ca să ieși la întâlnire și el a decis că nu vă mai puteți vedea azi,jpg,Combination,Fake,Negative,Anger,No,716,540,3,image/jpeg,63829,90,100,No,No
+122,200023,"Eu căutând online cum să fac venit pasiv fără universitate, fără investiții și fără lucru",jpg,Combination,Real,Negative,Sadness,No,526,640,3,image/jpeg,72975,89,100,No,No
+123,200024,Eu: *povestesc mamei despre ziua mea la școală   Mama care deja a primit un sunet de la școală despre faptul că nu am fost la lecții,jpg,Combination,Fake,Negative,Anger,No,526,576,3,image/jpeg,46674,132,138,No,No
+124,200025,Directorul: *cumpără bănci noi pentru școală*  Elevii din ultima bancă :,jpg,Simple,Real,Negative,Anger,No,552,520,3,image/jpeg,50099,72,78,No,No
+125,200026,"Fața mea când bancomatul face ""krrrrrrrrrrrrrr"" înainte să imi dea 1000 de lei în bancote de 1",jpg,Simple,Fake,Neutral,Joy,No,526,504,3,image/jpeg,40106,94,99,No,No
+126,200027,Eu : ling cuțitul după ce am terminat Ceilalți chirurgi care mă asistă la operație :,jpg,Simple,Real,Negative,Fear,No,720,537,3,image/jpeg,46509,84,90,No,No
+127,200028,Eu la 3 ani după ce mi-am turnat suc de mere în paharul de vin ca să pot bea cu toți la masă,jpg,Combination,Fake,Positive,Joy,No,796,540,3,image/jpeg,61456,92,97,No,No
+128,200029,"Când ai terminat să speli podeaua, dar ți-ai uitat telefonul în laltă cameră",jpg,Combination,Fake,Neutral,Sadness,No,640,516,3,image/jpeg,60831,76,82,No,No
+129,200030,"Când ai văzut pe frigider un bilețel de la prietena ta care scire ""Nu mai merge"", iar când deschizi frigiderul vezi că el defapt merge",jpg,Combination,Real,Negative,Surprise,No,522,640,3,image/jpeg,45962,134,139,No,No
+130,200031,"Când trebuie să feliciți pe cineva, și deja ai folosit cuvintele ""sănătate"" și ""fericire""",jpg,Simple,Real,Neutral,Sadness,No,600,518,3,image/jpeg,48068,89,96,No,No
+131,200032,Eu de feicare dată când cineva îmi zice ceva mai lung de 8 secunde,jpg,Simple,Real,Negative,Sadness,No,503,600,3,image/jpeg,39147,66,69,No,No
+132,200033,"Când te sună șeful în timpul orelor de lucru și te pune să lucrezi la ceva , și acum trebuie să ieși din jocul tău online",jpg,Simple,Fake,Negative,Sadness,No,526,514,3,image/jpeg,46094,121,131,No,No
+133,200034,"- de când sunteți la muncă în Italia ?  - Sunt acolo deja al 15-lea an  -wow, deci cred că aveți mulți bani  eu:",jpg,Combination,Fake,Negative,Sadness,No,640,514,3,image/jpeg,50439,112,119,No,No
+134,200035,Fața mea când părinții au venit la școală să mă ia mai devreme de la lecții,jpg,Combination,Real,Positive,Joy,No,600,535,3,image/jpeg,60747,75,84,No,No
+135,200036,Copiii tăi când nu faci nimic vs. copiii tăi când intri în conference call cu colegii de la lucru,jpg,Combination,Fake,Negative,Anger,No,843,526,3,image/jpeg,78252,97,102,No,No
+136,200037,Eu în timp ce mă pregătesc de un video call care putea să fie un simplu email,jpg,Simple,Real,Negative,Sadness,No,526,532,3,image/jpeg,33229,77,81,No,No
+137,200038,"Eu cu mama, în timp ce profa pe skype povestește despre cum eu mă jucam counter strike în loc să ascult lecția online",jpg,Combination,Fake,Negative,Fear,No,552,511,3,image/jpeg,51111,117,123,No,No
+138,200039,"Când te-ai jucat până dimineața online, și aucm trebuie să intri în conference call pentru lecția online",jpg,Combination,Fake,Negative,Sadness,No,526,507,3,image/jpeg,52463,104,112,No,No
+139,200040,"Eu : mă scuzați că am întârziat, traficul a fost cam greu   Profa pe webcam :",jpg,Combination,Fake,Negative,Anger,No,505,540,3,image/jpeg,47424,77,82,No,No
+140,200041,Eu explicând prietenei mele diferența între C++  Javasript și python,jpg,Simple,Fake,Neutral,Surprise,No,640,455,3,image/jpeg,48212,68,72,No,No
+141,200042,Eu la toate petrecerile prezentând colecția mea secretă de meme-uri care încă nu au fost postate,jpg,Simple,Fake,Positive,Joy,No,526,503,3,image/jpeg,49123,96,101,No,No
+142,200043,Studenții de peste hotare în primul lor an de cămin:,jpg,Simple,Fake,Negative,Sadness,No,521,540,3,image/jpeg,39256,52,55,No,No
+143,200044,Cum se simt cei care cumpără sare de Himalaya în loc de sare normală,jpg,Simple,Fake,Positive,Joy,No,526,520,3,image/jpeg,47366,68,72,No,No
+144,200045,"Când te-ai dus la mare pentru a scăpa de depresie, dar acum stai la mare depresat",jpg,Simple,Fake,Negative,Sadness,No,552,505,3,image/jpeg,47342,81,83,No,No
+145,200046,Tata uitându-se la nota mea de 2 la exercițiile de matematică pe care el singur le-a rezolvat,jpg,Simple,Real,Negative,Anger,No,562,453,3,image/jpeg,45018,93,96,No,No
+146,200047,Eu de 25 ani care încă nu am învățat cum e corect să te comporți când cineva plânge,jpg,Simple,Fake,Negative,Sadness,No,526,535,3,image/jpeg,66219,83,92,No,No
+147,200048,Când trece dirigintele pe lângă tine după ce i-ai spus că nu vii la școală că ești răcit,jpg,Simple,Real,Negative,Surprise,No,518,640,3,image/jpeg,56110,88,98,No,No
+148,200049,"CAND ABIA SCAPI DE CORONAVIRUS SI APARE ""CORONAROVIRUS""",jpg,Simple,Real,Negative,Anger,No,700,500,3,image/jpeg,62980,55,55,Yes,No
+149,200050,Nicolae Stanciu de fiecare dată când vede mingea la 30 de metri de poartă,jpg,Combination,Fake,Positive,Joy,No,800,884,3,image/jpeg,59003,73,76,No,No
+150,200051,TOTI ROMANII CARE AU CRITICAT NATIONALA INAINTE DE EURO,jpg,Combination,Fake,Negative,Fear,No,800,638,3,image/jpeg,43319,55,55,Yes,No
+151,200052,EȘTI DIN ROMÂNIA DACĂ  MAI ÎNTÂI SE ASFALTEAZĂ STRĂZILE ȘI DUPĂ ACEEA SE BAGĂ ȚEVILE,jpg,Simple,Real,Negative,Anger,No,474,334,3,image/jpeg,39301,84,95,Yes,No
+152,200053,CE SIMPLU AR FI DACA N-AR FI GREU,jpg,Simple,Real,Negative,Sadness,No,552,501,3,image/jpeg,44003,33,33,Yes,No
+153,200054,"OK, GOOGLE, UNDE E MASINA MEA?",jpg,Simple,Real,Neutral,Sadness,No,800,493,3,image/jpeg,45861,30,30,Yes,No
+154,200055,Fanii Coldplay când văd maneliști pe scenă,jpg,Simple,Real,Negative,Surprise,No,680,651,3,image/jpeg,52232,42,46,No,No
+155,200056,"BUNICULE, NE MAI SPUI O DATA POVESTEA AIA  CAND AI CAZUT DE LA ETAJUL TREI",jpg,Simple,Fake,Positive,Surprise,No,720,523,3,image/jpeg,49784,74,74,Yes,No
+156,200057,Cu proful ăla șmecher la ora deschisă în parc,jpg,Simple,Real,Positive,Joy,No,600,520,3,image/jpeg,53323,45,49,No,No
+157,200058,"Nicușor Dan solicitându-i Gabrielei Firea să elibereze funcția de Primar General al Municipiului București în urma rezultatului algerilor locale, Oct. 2020",jpg,Simple,Real,Neutral,Surprise,Yes,526,526,3,image/jpeg,52990,155,161,No,No
+158,200059,Când îi vezi pe ăia din provincie că fac meme cu metroul din București,jpg,Simple,Real,Negative,Surprise,No,526,507,3,image/jpeg,33976,70,75,No,No
+159,200060,CND MERGI CU RATB ȘI TE PRINDE CONTROLORUL FĂRĂ BILET,jpg,Simple,Real,Negative,Sadness,No,1106,461,3,image/jpeg,43166,53,56,Yes,No
+160,200061,ea : îmi plac doar veganii  eu:,jpg,Combination,Real,Neutral,Surprise,No,526,534,3,image/jpeg,43499,31,32,No,Yes
+161,200062,"Savant din Evul Mediu  incercand sa obtina aurul prin alchimie, cca. 1137",jpg,Simple,Fake,Neutral,Surprise,No,600,518,3,image/jpeg,63499,73,73,No,No
+162,200063,"Mihai Viteazul, pe punctul de a-l infrunta pe Sinan Pasa, cca. 1595",jpg,Simple,Fake,Neutral,Surprise,No,711,540,3,image/jpeg,60604,67,67,No,No
+163,200064,grupuri de intelectuali romani discutand diferentele dintre nihilism si existentialism,jpg,Simple,Real,Negative,Surprise,No,710,525,3,image/jpeg,38864,86,86,No,Yes
+164,200065,Când ai zis că iei trei puncte cu Bosnia și n-ai luat nimic din nou,jpg,Combination,Fake,Negative,Anger,No,800,640,3,image/jpeg,41292,67,70,No,No
+165,200066,IN ROMANIA NU CONTEAZA CINE ESTI  CONTEAZA UNDE PARCHEZI,jpg,Simple,Real,Neutral,Surprise,No,576,768,3,image/jpeg,50869,56,56,Yes,No
+166,200067,Când folosești calculatorul la examen ca să te asiguri că 4+5 e egal cu 9,jpg,Simple,Real,Neutral,Fear,No,576,588,3,image/jpeg,47921,73,77,No,No
+167,200068,CUM TE SIMȚI CĂND ȚI-AI FĂCUT TEMELE DE VACANȚĂ  ȘI COLEGII APELEAZĂ LA TINE,jpg,Simple,Real,Positive,Joy,No,576,460,3,image/jpeg,34788,76,84,Yes,No
+168,200069,MOMENTUL ĂLA CÂND AFLI CĂ NU TREBUIE SĂ TE DUCI  LA ȘCOALĂ,jpg,Simple,Real,Positive,Joy,No,576,589,3,image/jpeg,35532,58,64,Yes,No
+169,200070,Când te gândești că e o idee bună să te duci la grătar în plină pandemie,jpg,Simple,Real,Neutral,Surprise,No,576,547,3,image/jpeg,36362,72,81,No,No
+170,200071,CAND TE PUNE CINEVA LA TREABA,jpg,Combination,Fake,Negative,Sadness,No,576,595,3,image/jpeg,36380,29,29,Yes,No
+171,200072,FANII ROMANIEI ASTEPTAND UN GOL CU LIECHTENSTEIN,jpg,Simple,Real,Negative,Sadness,No,800,1016,3,image/jpeg,107034,48,48,Yes,No
+172,200073,"Când îți faci planuri de vacanță, dar apare încă o tulpină de Covid",jpg,Simple,Fake,Negative,Sadness,No,576,629,3,image/jpeg,37171,67,75,No,No
+173,200074,România: nu poți să ai coronavirus dacă nu testezi pe nimeni,jpg,Simple,Real,Negative,Surprise,Yes,576,468,3,image/jpeg,25437,60,64,No,No
+174,200075,"Eu: Ce tare e lupta asta din film, ar fi super dacă aș avea cum să o încerc și eu  Fratele meu mai mic:",jpg,Combination,Fake,Neutral,Fear,No,576,576,3,image/jpeg,32354,103,108,No,No
+175,200076,MOMENTUL ĂLA CÂND NU ȘTII DACĂ MAI E CUTREMUR SAU E DOAR PULSUL,jpg,Simple,Fake,Neutral,Anger,No,576,424,3,image/jpeg,30341,63,67,Yes,No
+176,200077,S-A INVENTAT MAȘINA INVIZIBILĂ?,jpg,Simple,Real,Neutral,Surprise,No,576,432,3,image/jpeg,36313,31,33,Yes,No
+177,200078,CAND TU SI PRIETENII TAI  AFLATI CA ATI LUAT BACUL,jpg,Simple,Real,Positive,Joy,No,576,405,3,image/jpeg,36910,50,50,Yes,No
+178,200079,SI VREI SA SPUI CA ROMANIA A TERMINAT PE PRIMUL LOC IN PRELIMINARII?,jpg,Simple,Real,Negative,Surprise,No,800,797,3,image/jpeg,70061,68,68,Yes,No
+179,200080,CAND TOTI PRIETENII TAI SUNT AFARA   SI TU AI TEME DE FACUT,jpg,Simple,Fake,Neutral,Sadness,No,576,397,3,image/jpeg,33156,59,59,Yes,No
+180,200081,CAND SE APROPIE BLACK FRIDAY DAR TU ESTI SARACIE ABOSLUTA,jpg,Combination,Fake,Neutral,Anger,No,576,417,3,image/jpeg,31502,57,57,Yes,No
+181,200082,ORICE ELEV PE 10 SEPTEMBRIE,jpg,Simple,Real,Neutral,Sadness,No,576,674,3,image/jpeg,33779,27,27,Yes,No
+182,200083,MOMENTUL ALA CAND AI COLEGI CU MANA PE SUS  SI PROFA TE ALEGE PE TINE,jpg,Combination,Fake,Negative,Surprise,No,500,336,3,image/jpeg,27315,69,69,Yes,No
+183,200084,DE 1 IUNIE  SĂ NU UITĂM DE CEI MICI,jpg,Simple,Real,Positive,Joy,No,576,383,3,image/jpeg,43950,35,37,Yes,No
+184,200085,ASTA PUTEA FI ROMANIA  DAR TU VOTEZI CU PSD,jpg,Simple,Real,Negative,Anger,Yes,576,379,3,image/jpeg,47349,43,43,Yes,No
+185,200086,Când toată lumea crede că greșești și Google-ul arată că ai dreptate,jpg,Simple,Real,Positive,Joy,No,576,525,3,image/jpeg,26787,68,76,No,No
+186,200087,Când realizezi că nu ai slăbit nici anul ăsta!,jpg,Simple,Real,Negative,Sadness,No,576,582,3,image/jpeg,42372,46,50,No,No
+187,200088,Când ești nervoasă și îți spune iubitul să te calmezi,jpg,Simple,Fake,Negative,Anger,No,576,630,3,image/jpeg,37302,53,60,No,No
+188,200089,FIECARE ROMAN DE BLACK FRIDAY  TACI SI IA-MI BANII!,jpg,Simple,Fake,Neutral,Surprise,No,576,324,3,image/jpeg,29862,51,51,Yes,No
+189,200090,DUPĂ CE VEZI CĂ HALEP A BĂTUT-O PE SHARAPOVA,jpg,Simple,Fake,Positive,Joy,No,576,576,3,image/jpeg,32613,44,47,Yes,No
+190,200091,LISTA CU ALIMENTELE SANATOASE  PE CARE LE-AI MANCAT RECENT,jpg,Simple,Real,Negative,Surprise,No,576,348,3,image/jpeg,25229,58,58,Yes,No
+191,200092,CUM TE SIMȚI  CÂND REPARI CEVA ÎN FAȚA PRIETENEI,jpg,Simple,Real,Positive,Joy,No,576,637,3,image/jpeg,41013,48,52,Yes,No
+192,200093,MĂ ÎNRTEB CE I-A SPUS FRIZERULUI,jpg,Simple,Real,Neutral,Surprise,No,576,767,3,image/jpeg,46981,32,34,Yes,No
+193,200094,"Cum adica, lucrez pe 31 decembrie?",jpg,Simple,DeepFake,Neutral,Surprise,No,533,416,3,image/jpeg,38566,34,34,No,No
+194,200095,CÂND AȘTEPȚI CA O TELEVIZIUNE ROMÂNĂ  SĂ DEA O ȘTIRE DESPRE CUTREMUR,jpg,Simple,Fake,Negative,Anger,No,576,863,3,image/jpeg,47133,68,75,Yes,No
+195,200096,MONMENTUL ALA CAND AFLII  CA SCOLILE RAMAN INCHISE,jpg,Simple,Fake,Neutral,Joy,No,576,437,3,image/jpeg,36639,50,50,Yes,No
+196,200097,Când profesoul te dă pe tine și pe cel mai bun prieten afară din clasă,jpg,Simple,Fake,Neutral,Joy,No,576,456,3,image/jpeg,50086,70,75,No,No
+197,200098,Când auzi oameni că se ceartă pe strada ta,jpg,Simple,Fake,Neutral,Surprise,No,576,608,3,image/jpeg,26972,42,45,No,No
+198,200099,MOMENTUL ALA CANDII VEZI PE AIA DE LA ANTENA 1  CUM ARATA IN HD,jpg,Simple,Real,Neutral,Surprise,No,576,383,3,image/jpeg,33317,63,63,Yes,No
+199,200100,Când mama intră în camera mea după ce am facut curat,jpg,Simple,Fake,Neutral,Surprise,No,576,539,3,image/jpeg,38615,52,56,No,No
+200,300001,Vreau să demonstrez bărbaților că și femeile știu să parcheze! - GATA!,jpg,Combination,Real,Negative,Sadness,No,503,600,3,image/jpeg,57958,70,77,No,No
+201,300002,"Ultimii mei bani ii voi folosii pentru urgente..   Un Ciucaș, vă rog",jpg,Combination,Fake,Neutral,Joy,No,552,523,3,image/jpeg,27917,68,70,No,No
+202,300003,-Cand mergeti sa colindati? -Cand boierii nu-s acasa...,jpg,Simple,Real,Negative,Sadness,No,552,508,3,image/jpeg,47497,55,55,No,No
+203,300004,Ce animal!  Nu te speria!Îl țin cu două mâini!,jpg,Simple,Real,Positive,Surprise,No,720,478,3,image/jpeg,45851,46,50,No,No
+204,300005,"Atâta timp cât din leu nu se pot face sarmale, pentru mine tot porcul rămâne regele animalelor :))",jpg,Simple,Real,Positive,Joy,No,446,471,3,image/jpeg,34430,98,102,No,No
+205,300006,Cât de des se prăbișesc avioanele?  Doar o dată!,jpg,Simple,Real,Neutral,Surprise,No,640,501,3,image/jpeg,47129,48,52,No,No
+206,300007,"Învârtitoarea când aveam 6 ani  Învârtitoarea acum, atză-o-ar focu",jpg,Combination,Real,Negative,Sadness,No,720,512,3,image/jpeg,51951,66,72,No,No
+207,300008,VÂND CASĂ cu vedere spre viitor...,jpg,Simple,Real,Negative,Sadness,Yes,526,696,3,image/jpeg,63307,34,36,No,No
+208,300009,Mai multe filiale ale Institului Cantacuzino au reluat producția de vaccinuri antigripale...,jpg,Simple,Real,Neutral,Sadness,Yes,720,504,3,image/jpeg,63608,92,93,No,No
+209,300010,Când te simți un pic rău și cauți simptomele pe google:,jpg,Simple,Fake,Negative,Sadness,No,720,715,3,image/jpeg,40079,55,60,No,No
+210,300011,"Când trebuie să faci curățenie, dar nu ai nicio motivație așa că stai un pic să își aduni forțele.",jpg,Simple,Real,Neutral,Sadness,No,1080,1350,3,image/jpeg,86164,98,109,No,No
+211,300012,Copilul meu când ți pregătesc mâncare delicioasă. Copilul meu când găsește un pufulete de 2 săptămâni sub canapea.,jpg,Simple,Fake,Negative,Sadness,No,700,386,3,image/jpeg,30010,114,125,No,No
+212,300013,"- Tată, vino urgent acasă! - N-am cum sunt internat, am Covid-19... - Treaba ta, mama îți vinde undițele la prețul la care i-ai zis că le-ai cumpărat.",jpg,Simple,Real,Positive,Surprise,No,720,1007,3,image/jpeg,54802,150,158,No,No
+213,300014,Pe mine mă cheamă George Pe mine nu,jpg,Simple,Real,Negative,Surprise,No,720,892,3,image/jpeg,74032,35,37,No,No
+214,300015,NU LE PIPĂIȚ  Spune NU pipăițului!,jpg,Simple,Real,Neutral,Surprise,No,640,1386,3,image/jpeg,70131,34,38,No,No
+215,300016,M-AM SATURAT DE VIATA ASTA... MAI BINE MA DUC SA-MI IAU BERE,jpg,Combination,Real,Negative,Fear,No,508,640,3,image/jpeg,61496,60,60,Yes,No
+216,300017,"Buni, ce vârstă ai? Draga mea sunt așa de bătrână că nu mai știu Te poți uita pe eticheta chiloților, la mine scrie 5-6 ani",jpg,Simple,Real,Negative,Surprise,No,640,1427,3,image/jpeg,55209,123,133,No,No
+217,300018,Vreți ceva de băut? Între ce pot să aleg? Între Da și NU!,jpg,Simple,Real,Positive,Surprise,No,720,900,3,image/jpeg,62368,57,63,No,No
+218,300019,"Iubit, ti-am făcut programare la solar!",jpg,Simple,Real,Positive,Surprise,No,800,600,3,image/jpeg,70711,39,40,No,No
+219,300020,Cand ai nevoie de psiholog dar decizi sa te tratezi singura!,jpg,Simple,Fake,Negative,Sadness,No,720,627,3,image/jpeg,34343,60,60,No,No
+220,300021,Ce aveti fără zahăr și să nu îngrașe? Șervețele!,jpg,Simple,Real,Positive,Surprise,No,476,476,3,image/jpeg,28443,48,57,No,No
+221,300022,Putina lume stie ca buzunarul cel mic de la blugi este pentru salariu,jpg,Simple,Real,Negative,Sadness,Yes,526,526,3,image/jpeg,59138,69,69,No,No
+222,300023,Nu prea cred in cuvinte... pentru ca in ziua de astazi nimeni nu mai spune ce simte!,jpg,Simple,Real,Neutral,Sadness,Yes,541,401,3,image/jpeg,32342,84,84,No,No
+223,300024,Un țăran avea o iapă. Până i-au furat-o TÂGANII !!! SFÂRȘIT!,jpg,Combination,Real,Negative,Surprise,Yes,392,608,3,image/jpeg,99211,60,68,No,No
+224,300025,După ce bați un tâgan...,jpg,Simple,Real,Negative,Fear,No,431,480,3,image/jpeg,35302,24,27,No,No
+225,300026,"""Banii nu te schimbă pe tine, schimbă oamenii din jurul tău.""",jpg,Simple,Real,Negative,Sadness,No,500,212,3,image/jpeg,15912,61,64,No,No
+226,300027,In Canada folosesc abtibilduri pentru a reduce viteza masinilor. In Romnia folosec versiunea in 3D!,jpg,Combination,Real,Negative,Sadness,Yes,620,437,3,image/jpeg,44754,99,99,No,No
+227,300028,"Tati, eu de unde vine? Pai eu impreuna cu mama ta, te-am gasit pe google si te-am downloadat",jpg,Simple,Real,Positive,Love,No,561,560,3,image/jpeg,21323,92,92,No,No
+228,300029,"vând cozonac IKEA, trebuie doar montat! Rogseriozitate!",jpg,Simple,Real,Positive,Surprise,No,768,960,3,image/jpeg,71104,55,56,No,No
+229,300030,Babele din România Babele din Europa,jpg,Combination,Real,Negative,Sadness,No,720,1018,3,image/jpeg,65859,36,37,No,No
+230,300031,"Ce-ar fi dacă, de mâine, am încerca să mâncăm sănătos? Ai înebunit?!? Acum, când avem nevoie de toți conservanții...",jpg,Simple,Real,Positive,Surprise,No,853,960,3,image/jpeg,97011,116,128,No,No
+231,300032,Il omor sau nu? NU DA Voi alegeti :)),jpg,Combination,Fake,Neutral,Joy,Yes,767,767,3,image/jpeg,44271,37,37,No,No
+232,300033,pe cine il alegi? comm cu:* comm cu :X,jpg,Combination,Fake,Neutral,Surprise,Yes,403,275,3,image/jpeg,16722,38,38,No,No
+233,300034,Sa nu il scapi e scump! Sa nu il scapi gresia e scumpa!,jpg,Combination,Fake,Neutral,Fear,No,800,532,3,image/jpeg,57306,55,55,No,No
+234,300035,Cand sunt plictisit nimeni nu-mi trimite mesaje.. Cand sunt ocupatbrusc devin cel mai popular om din lume!,png,Combination,Fake,Negative,Sadness,No,549,360,3,image/png,102035,106,106,No,No
+235,300036,"Esti SPECIAL! DA, TU! Cel care citeste!",jpg,Simple,Real,Positive,Joy,No,620,607,3,image/jpeg,44665,39,39,No,No
+236,300037,"-STAI, MĂRIE, CĂ NU-ȚI FAC NIMIC! - PĂI, DACĂ NU ÎMI FACI NIMIC, DE CE SĂ STAU?",jpg,Simple,Fake,Neutral,Surprise,No,668,720,3,image/jpeg,114191,79,86,Yes,No
+237,300038,Toți merităm respect!,jpg,Simple,Real,Positive,Joy,No,500,333,3,image/jpeg,25413,21,23,No,No
+238,300039,Mâine-i luni!,jpg,Simple,Fake,Negative,Sadness,No,480,353,3,image/jpeg,16339,13,14,No,No
+239,300040,CE ITI PLACE SA BEI Bere LAPTE!!! LAPTE!!!,jpg,Combination,Real,Positive,Surprise,No,259,461,3,image/jpeg,26050,42,42,No,No
+240,300041,"Cum e, ma, sa fi insurat? Super tare! masimt de parca as avea iarasi 16 ani! Adica? Fumez in toaleta, beau pe ascuns..",jpg,Combination,Fake,Negative,Anger,No,752,960,3,image/jpeg,82146,118,118,No,No
+241,300042,"CIOLOȘ! CIOLOȘ, IEȘI MĂ! TE-A NOMINALIZAT IOHANIS.",jpg,Simple,Real,Neutral,Surprise,Yes,960,540,3,image/jpeg,127574,50,54,Yes,No
+242,300043,JE SUIS BĂIATU DE LA USR CU CASCADA MINIMALISTĂ.,jpg,Simple,Real,Neutral,Surprise,Yes,1012,925,3,image/jpeg,118768,48,50,Yes,No
+243,300044,Uniunea Șobolănim* România UȘR,jpg,Simple,Fake,Neutral,Sadness,Yes,960,839,3,image/jpeg,37194,30,34,No,No
+244,300045,Când ai votat cu USR și tre' să te prefaci că e totul o.k.,jpg,Simple,Real,Negative,Sadness,Yes,1080,1350,3,image/jpeg,110281,58,62,No,No
+245,300046,Adoptă o căpușă! O campanie PNL USRPLUS pentru București USRPLUS,jpg,Simple,Real,Negative,Surprise,Yes,1080,1080,3,image/jpeg,224401,64,69,No,No
+246,300047,Adoptă un șobolan! O campanie PNL USRPLUS pentru București USRPLUS,jpg,Simple,Real,Negative,Surprise,Yes,1080,1080,3,image/jpeg,253330,66,69,No,No
+247,300048,Adoptă o groapă! O campanie PNL USRPLUS pentru București USRPLUS,jpg,Simple,Real,Negative,Surprise,Yes,1080,1080,3,image/jpeg,165028,64,67,No,No
+248,300049,Adoptă un țânțar! O campanie PNL USRPLUS pentru București USRPLUS,jpg,Simple,Real,Negative,Surprise,Yes,1080,1080,3,image/jpeg,273520,65,70,No,No
+249,300050,PNL USR PLUS UDMR,jpg,Combination,Real,Negative,Surprise,Yes,574,751,3,image/jpeg,116313,17,17,Yes,No
+250,300051,Se unde știu că demiterea lui VeVe o măsură bună? Fiindcă deranjează. PROFU' de sănătate publică,jpg,Simple,Real,Positive,Joy,Yes,720,466,3,image/jpeg,41974,96,106,No,No
+251,300052,Gaura din buget Florin Cîțu Parlamentul Eliminarea gratuității la tren pentru studenți,jpg,Simple,DeepFake,Negative,Anger,Yes,1026,1418,3,image/jpeg,173425,86,91,No,No
+252,300053,"Revoluție, mineriadă, Roșia Montana, Colectiv, OUG 13 Burgeri moca și bilete gratuite de tren",jpg,Combination,Fake,Negative,Surprise,Yes,1024,789,3,image/jpeg,45601,93,97,No,No
+253,300054,"ALO, DISPECERATUL? VĂ ROG AJUTAȚI-MĂ, MI-A INTRAT APA ÎN CASĂ ĂĂĂ... PLATĂ SAU MINERALĂ?",jpg,Simple,Real,Negative,Sadness,No,748,500,3,image/jpeg,67631,88,98,Yes,No
+254,300055,"NU ȘTIE NICI MĂCAR SĂ CALCULEZE DEBITUL UNUI RÂU! BOSS, SUNTEM AICI SĂ FURĂM, NU SĂ CALCULĂM!",jpg,Combination,Fake,Negative,Surprise,Yes,744,500,3,image/jpeg,46543,93,101,Yes,No
+255,300056,REVOLUȚIA BUNEI GUVERNĂRI! PNL USR +PLUS,jpg,Simple,Real,Negative,Sadness,Yes,1440,898,3,image/jpeg,140726,40,42,Yes,No
+256,300057,"Spune-mi lucruri murdare! București, Sector 1",jpg,Simple,Fake,Neutral,Love,Yes,710,668,3,image/jpeg,41506,45,46,No,No
+257,300058,FLORIN CÎȚU FUNCȚIA DE PREMIER LUDOVIC ORBAN FUNCȚIA DE PREMIER,jpg,Combination,Fake,Negative,Joy,Yes,761,1024,3,image/jpeg,59051,63,67,Yes,No
+258,300059,Iohanis Ciolos Orban Barna Kelemen hunor,jpg,Simple,Real,Negative,Anger,Yes,681,960,3,image/jpeg,63852,40,40,No,No
+259,300060,CÂND VREI SĂ FACI DECLARAȚIE DE DRAGOSTE DAR AI PIERDUT INELUL ÎN SACII DE VOT,jpg,Simple,Real,Neutral,Anger,Yes,814,570,3,image/jpeg,70301,78,82,Yes,No
+260,300061,CÂND TE ÎNTREABĂ PRESA DE PNL,jpg,Simple,Fake,Negative,Fear,Yes,824,669,3,image/jpeg,67217,29,32,Yes,No
+261,300062,"MINISTRA ÎNVĂȚĂMÂNTULUI: ""NICIO ȘCOALĂ FĂRĂ PEPSIGLASS PE BĂNCI!""",jpg,Simple,Fake,Neutral,Sadness,Yes,750,750,3,image/jpeg,34586,65,75,Yes,No
+262,300063,ROM\NII PNL BANII PUBLICI,jpg,Simple,Real,Positive,Sadness,Yes,842,864,3,image/jpeg,62376,25,25,Yes,No
+263,300064,PNL Economia României 04.11.2019 - 04.05.2020 imminvest,jpg,Simple,Real,Neutral,Sadness,Yes,942,960,3,image/jpeg,162050,55,56,No,No
+264,300065,PNL în opoziție PNL la guvernare,jpg,Combination,Fake,Negative,Joy,Yes,500,618,3,image/jpeg,33947,32,34,No,No
+265,300066,PSD PSD PSD Razand biciuim moravurile,jpg,Simple,Fake,Neutral,Sadness,Yes,700,770,3,image/jpeg,57922,37,37,No,No
+266,300067,60 De pruna,jpg,Simple,Fake,Neutral,Joy,Yes,960,619,3,image/jpeg,44716,11,11,No,No
+267,300068,Camera Deputaților a aprobat tacit autonomia Ținutului Secuiesc Legea pică în Senat Și oricum e neconstituțională Români mândri,jpg,Simple,Fake,Positive,Joy,Yes,720,588,3,image/jpeg,64726,127,136,No,No
+268,300069,"Când vrei să mergi în vacanță, dar e pandemie de coronavirus",jpg,Simple,Fake,Negative,Sadness,Yes,785,810,3,image/jpeg,57313,60,65,No,No
+269,300070,NU TE SUPĂRA FRATE!,jpg,Simple,Fake,Negative,Sadness,Yes,540,557,3,image/jpeg,33358,19,20,Yes,No
+270,300071,PNL Nicușor Dan,jpg,Simple,Real,Neutral,Surprise,Yes,678,612,3,image/jpeg,37156,15,16,No,No
+271,300072,- Si una de jale,jpg,Simple,Fake,Neutral,Sadness,Yes,960,960,3,image/jpeg,75091,16,16,No,No
+272,300073,TREI PAHARE LA BĂIATU' ȘI PLEC #memepolitice CAMERA DEPUTAȚILOR,jpg,Simple,Real,Positive,Joy,Yes,680,510,3,image/jpeg,57630,63,66,No,No
+273,300074,Guvernul PNL,jpg,Simple,Real,Positive,Joy,Yes,1080,720,3,image/jpeg,43675,12,12,No,No
+274,300075,CE FACEȚI AICI? DĂM ORDONANȚE!,jpg,Simple,Fake,Positive,Surprise,Yes,573,574,3,image/jpeg,26100,30,33,Yes,No
+275,300076,AM GĂSIT 23 DE ORDONANȚE LA PENELEU,jpg,Simple,Real,Neutral,Surprise,Yes,480,360,3,image/jpeg,60957,35,37,Yes,No
+276,300077,"Câinele meu, când vede un chinez pe stradă - Ori îmi dă viruși, ori mă mănâncă",jpg,Simple,Real,Negative,Fear,Yes,720,611,3,image/jpeg,36009,78,88,No,No
+277,300078,Astăzi vin doi srilankezi Mâine vin șapte srilankezi Poimâine vor autonomie!,jpg,Combination,Real,Negative,Surprise,Yes,870,960,3,image/jpeg,74001,76,80,No,No
+278,300079,SPITAL DIN ROMANIA ACINETOBACTER E. COLI PIOCIANIC ENTEROCOCCUS CORONAVIRUS ASTAFILOCOC AURIU,jpg,Simple,Real,Negative,Sadness,Yes,1024,666,3,image/jpeg,81305,93,93,Yes,No
+279,300080,LINKEDIN FACEBOOK INSTAGRAM TINDER,jpg,Combination,Real,Neutral,Fear,Yes,1080,1080,3,image/jpeg,131368,34,34,Yes,No
+280,300081,FACEBOOK Linkedin Instagram Tinder,jpg,Combination,Real,Positive,Joy,Yes,1080,1272,3,image/jpeg,164718,34,34,No,No
+281,300082,2020 2030,jpg,Combination,DeepFake,Neutral,Joy,Yes,524,483,3,image/jpeg,25499,9,9,Yes,Yes
+282,300083,"Cand esti IT-ist, votezi pnl si iti dai seama ca o sa iti puna impozit pe venit",jpg,Simple,Real,Negative,Sadness,Yes,752,785,3,image/jpeg,66174,79,79,No,No
+283,300084,pnl veniturile IT-istilor,jpg,Simple,Real,Negative,Sadness,Yes,800,500,3,image/jpeg,28849,25,25,No,No
+284,300085,nimeni: nimic ludovic orban: sa impozitam IT-istii,jpg,Simple,Fake,Negative,Anger,Yes,664,374,3,image/jpeg,21983,50,50,No,No
+285,300086,"pnl, imediat dupa ce castiga alegerile si impoziteaza veniturile IT-stilor",jpg,Simple,Real,Positive,Joy,Yes,913,913,3,image/jpeg,54210,74,74,No,No
+286,300087,Cine suntem noi? pnl Ce vrem noi? sa impozitam IT-istii Când vrem? ACUM!,jpg,Combination,Fake,Positive,Joy,Yes,610,642,3,image/jpeg,49417,72,73,No,No
+287,300088,NU-I MOMENTU' ACUUUUUUM,jpg,Simple,Real,Negative,Surprise,No,511,669,3,image/jpeg,23600,23,23,Yes,No
+288,300089,Antrenorii de fitness în luna ianuarie 2020 be like:,jpg,Simple,Fake,Positive,Joy,No,959,915,3,image/jpeg,289378,52,53,No,No
+289,300090,ROBU aflând ca DNA îl trimite în judecată #memepolitice,jpg,Simple,Fake,Negative,Sadness,Yes,352,352,3,image/jpeg,27068,55,59,No,No
+290,300091,Se înființează de urgență Uniunea Salvați USR! Little Yoda to the rescue! #memepolitice,jpg,Simple,Fake,Neutral,Surprise,Yes,900,866,3,image/jpeg,139289,87,93,No,No
+291,300092,"Toată lumea: Predoiule, anulează recursul compensatoriu!!Predoiu: NO #memepolitice",jpg,Simple,Fake,Positive,Joy,Yes,900,1000,3,image/jpeg,115289,82,84,No,No
+292,300093,"Toată lumea: PSD-ule, scapa de baroni,Tutankhamoni, reformează-te!! PSD: NO #memepolitice",jpg,Simple,Fake,Positive,Joy,Yes,900,1000,3,image/jpeg,120239,89,91,No,No
+293,300094,GUVERN PNL Relații Pile #memepolitice,jpg,Simple,Fake,Positive,Joy,Yes,548,643,3,image/jpeg,97875,37,38,No,No
+294,300095,DIMINEAȚA ESTE MAI FRIG PENTRU CĂ... AERUL A STAT AFARĂ TOATĂ NOAPTEA,jpg,Simple,Real,Positive,Surprise,Yes,720,739,3,image/jpeg,43533,69,73,Yes,No
+295,300096,"Ce capitală are Marea Britanie? Mă ia de proastă! Ce, eu nu știu că mările nu au capitală?",jpg,Simple,Real,Neutral,Surprise,Yes,563,391,3,image/jpeg,30974,90,97,No,No
+296,300097,"Manualele școlare este un subiect intens! Valentin Popa min, Educației. Manualele sunt! Băă! Oligofrenule! Valentinee! Ăștia este proști! Ai un 10 la mine cât toate degetele de la o mână!",jpg,Combination,Real,Negative,Anger,Yes,564,843,3,image/jpeg,74726,187,197,No,No
+297,300098,IOHANIS Dezbinarea-i arma mea.. EU SUNT PRINCIPALUL PERICOL PENTRU ROMANIA!,jpg,Simple,Real,Neutral,Joy,Yes,409,640,3,image/jpeg,46423,75,75,No,No
+298,300099,ȘTII BANCUL CU DRAGNEA? NU GRAG NE-AR FI SĂ TE VEDEM ÎN PUȘCĂRIE,jpg,Combination,Real,Positive,Joy,Yes,564,929,3,image/jpeg,57184,64,69,Yes,No
+299,300100,Sper sa-i placa lu' Liviu cadoul moșului...,jpg,Simple,Fake,Neutral,Surprise,Yes,441,440,3,image/jpeg,39305,43,44,No,No
+300,300101,AVETI SUGURANTA ZILEI DE MAINE? NU NU NU DA,jpg,Combination,Real,Negative,Sadness,Yes,564,841,3,image/jpeg,84248,43,43,Yes,No
+301,300102,"Dupa ce fac praf justitia ma iau si de Dumnezeu. Ce-i cu porunca asta ""sa nu furi""?",jpg,Simple,Real,Neutral,Surprise,Yes,552,782,3,image/jpeg,30690,83,83,No,No
+302,300103,"Iliescu explica cum a pacalit moartea: ""De 25 de ani ma cauta doar la puscarie si eu sunt acasa""",jpg,Simple,Real,Positive,Joy,Yes,564,705,3,image/jpeg,46971,96,96,No,No
+303,400001,"""It's over Anakin, I have the playgroud""",jpg,Simple,Real,Positive,Joy,No,800,420,3,image/jpeg,79741,40,40,No,No
+304,400002,Santa Claus il scoate din maneca pe Mos Nicolae,jpg,Simple,Fake,Positive,Surprise,Yes,700,450,3,image/jpeg,62636,47,47,No,No
+305,400003,UNA TUTA LEI,jpg,Simple,DeepFake,Neutral,Surprise,Yes,600,670,3,image/jpeg,109949,12,12,Yes,No
+306,400004,my reaction to everything,jpg,Simple,Real,Negative,Sadness,No,436,445,3,image/jpeg,26203,25,25,No,Yes
+307,400005,Decat nota!,jpg,Simple,Real,Neutral,Joy,Yes,780,440,3,image/jpeg,72430,11,11,No,No
+308,400006,"Eu, uitandu-ma pe ultimile sondaje politice din Romania",jpg,Simple,Fake,Negative,Anger,Yes,567,504,3,image/jpeg,47183,55,55,No,No
+309,400007,Spune-i mosului o poezie,jpg,Simple,Fake,Neutral,Love,Yes,580,674,3,image/jpeg,57340,24,24,No,No
+310,400008,Cum se uita un sofer de BMW la olinia de tramvai libera,jpg,Simple,Real,Positive,Joy,No,518,487,3,image/jpeg,36370,55,55,No,No
+311,400009,Asta inseamna sa fii mafiot,jpg,Simple,Real,Positive,Surprise,No,643,524,3,image/jpeg,46697,27,27,No,No
+312,400010,"Si, ce abilitati aveti ?",jpg,Combination,Real,Neutral,Surprise,No,600,809,3,image/jpeg,53425,24,24,No,No
+313,400011,Am scapat la mustata,jpg,Simple,Real,Positive,Joy,Yes,800,450,3,image/jpeg,41308,20,20,No,No
+314,400012,Aria cercului raza la patrat,jpg,Simple,Real,Positive,Joy,No,728,410,3,image/jpeg,131910,28,28,No,No
+315,400013,"Succes, Joe Biden!",jpeg,Simple,Real,Neutral,Sadness,Yes,1703,1285,3,image/jpeg,204436,18,18,No,No
+316,400014,De la putere la decadere,jpg,Combination,Fake,Neutral,Fear,Yes,723,714,3,image/jpeg,125961,24,24,No,No
+317,400015,Vrei ceva de la mega ?,jpeg,Simple,Fake,Neutral,Surprise,No,512,276,3,image/jpeg,34037,22,22,No,No
+318,400016,BREXIT,jpg,Simple,Fake,Negative,Anger,Yes,616,444,3,image/jpeg,22551,6,6,Yes,No
+319,400017,Am injurat 100 de romani,jpg,Simple,Real,Positive,Joy,No,920,396,3,image/jpeg,28883,24,24,No,No
+320,400018,"Steagul oficial, al anului 2020!",jpg,Simple,Real,Negative,Anger,No,701,599,3,image/jpeg,42554,32,32,No,No
+321,400019,YOU WILL REGRET WALKING ME UP!,jpg,Simple,Real,Negative,Anger,No,274,194,3,image/jpeg,18509,30,30,Yes,No
+322,400020,The Trollfather,jpg,Simple,Fake,Negative,Surprise,No,276,195,3,image/jpeg,8132,15,15,No,No
+323,400021,Cateodata beau un pahar cu apa,jpg,Simple,Real,Positive,Joy,No,513,491,3,image/jpeg,53963,30,30,No,No
+324,400022,CUM SUNT UNI Pe Internet .... in realitate,jpg,Combination,Real,Neutral,Surprise,No,519,730,3,image/jpeg,58186,42,42,No,No
+325,400023,AM RAS,jpg,Simple,Real,Positive,Joy,No,513,654,3,image/jpeg,69177,6,6,Yes,No
+326,400024,Uniunea Sobolanim Romania,jpg,Simple,Fake,Negative,Anger,Yes,600,524,3,image/jpeg,24483,25,25,No,No
+327,400025,"Si, uitati, atat va face PSD-ul coada vulpii!",jpg,Simple,Fake,Neutral,Surprise,Yes,646,363,3,image/jpeg,33111,45,45,No,No
+328,400026,"Doamna de fier ureaza Romaniei un calduros ""LAMULTEAN!""",jpg,Simple,Fake,Negative,Joy,Yes,542,686,3,image/jpeg,55906,55,55,No,No
+329,400027,Miau...taiat-o!,jpg,Simple,Fake,Negative,Sadness,Yes,643,513,3,image/jpeg,58009,15,15,No,No
+330,400028,GATA CU DROGURILE !,jpg,Simple,Real,Negative,Anger,Yes,743,894,3,image/jpeg,60391,19,19,Yes,No
+331,400029,guvern protestatari jandarmi,jpg,Simple,Real,Positive,Joy,Yes,847,564,3,image/jpeg,64672,28,28,No,Yes
+332,400030,FANII ROMANIEI ASTEPTAND UN GOL CU LICHTENSTEIN,jpg,Simple,Fake,Negative,Sadness,No,800,1016,3,image/jpeg,198357,47,47,Yes,No
+333,400031,ROMANIA IN PRELIMINARII  ROMANIA IN AMICALE,jpg,Combination,Fake,Negative,Sadness,No,800,523,3,image/jpeg,52233,43,43,Yes,No
+334,400032,"TATI, CE INSEAMNA SA DAI GOL? NU STIU FIULE, SUNTEM FANI ROMANIA",jpg,Combination,Real,Negative,Sadness,No,800,1120,3,image/jpeg,168528,64,64,Yes,No
+335,400033,SI VREI SA SPUI CA ROMANIA A TERMINAT PE PRIMUL LOC IN PRELIMINARII?,jpg,Simple,Real,Negative,Anger,No,800,797,3,image/jpeg,135569,68,68,Yes,No
+336,400034,ECHIPA NATIONALA,jpg,Simple,Fake,Negative,Surprise,Yes,800,1071,3,image/jpeg,208820,16,16,Yes,No
+337,400035,"LASA-L PE AVARII, BOSS, CA NU STAM MULT",jpg,Simple,Real,Negative,Sadness,No,800,690,3,image/jpeg,153464,39,39,Yes,No
+338,400036,Minutul 70...coafura rezista!,jpg,Simple,Real,Negative,Sadness,No,800,532,3,image/jpeg,83050,29,29,No,No
+339,400037,CAND ESTI PORTAR SI AI NECI CONTRA ROMANIEI,jpg,Simple,DeepFake,Neutral,Surprise,No,800,644,3,image/jpeg,86527,43,43,Yes,No
+340,400038,"Mircea, iti spun sincer, eu am vrut sa-l fac zidar. Dar a insistat sotia....",jpg,Simple,Fake,Negative,Sadness,No,800,488,3,image/jpeg,87038,76,76,No,No
+341,400039,Singurul antrenor care poate duce Romania la un turneu final,jpg,Simple,Real,Neutral,Joy,No,800,635,3,image/jpeg,79171,60,60,No,No
+342,400040,AU ZIS CA VOR SEMIFINALE LA EURO,jpg,Simple,Real,Negative,Sadness,No,800,475,3,image/jpeg,65984,32,32,Yes,No
+343,400041,"Si acum, va declar HOT si HOTIE",jpg,Simple,Fake,Positive,Joy,Yes,848,847,3,image/jpeg,127081,31,31,No,No
+344,400042,"APOI LE_AM SPUS: ""SA TRAITI BINE!""",jpg,Simple,Real,Positive,Joy,Yes,310,205,3,image/jpeg,22293,34,34,Yes,No
+345,400043,"Un fost Carmaci, care nu mai stia cum sa creasca populatia tarii, alaturi de in actual Carpaci, care nu maki stie cum s-o scalda",jpg,Simple,DeepFake,Neutral,Sadness,Yes,499,400,3,image/jpeg,47187,128,128,No,No
+346,400044,DAC-AS FI PENTRU O ZI PRESEDINTE,jpg,Simple,Real,Positive,Joy,Yes,310,227,3,image/jpeg,17342,32,32,Yes,No
+347,400045,THEY SEE ME COPY THEY HATIN',jpg,Simple,Real,Positive,Joy,Yes,310,206,3,image/jpeg,18222,28,28,Yes,No
+348,400046,"Ciolacu povesteste cum a luptat la Revolutie: "" Pe 25 Decembrie, am iesit de sub pat si am strigat JOS RATIU!""",jpg,Simple,Real,Positive,Joy,Yes,379,383,3,image/jpeg,25148,110,110,No,No
+349,400047,PSD a renuntat la boicot. Si-au dat seama ca e o mare lipsa de responsabilitate sa boicoteze cele mai biune surse de spaga.,jpg,Simple,Real,Positive,Joy,Yes,381,384,3,image/jpeg,24300,123,123,No,No
+350,400048,"Daca intram in Shengen acum, e doar meritul PSD. Fara PSD, intram de mult.",jpg,Simple,Real,Positive,Joy,Yes,380,362,3,image/jpeg,24642,74,74,No,No
+351,400049,"Patriarhul Daniel a intrat in Pstul Negru Metalizat, 530 CP, motor V12 in 6 litri. Postul prinde 100 km/h in 5 secunde.",jpg,Simple,Real,Negative,Sadness,Yes,378,386,3,image/jpeg,23607,119,119,No,No
+352,400050,"Vladimir Putin , mesaj de ultima ora pentru romani: ""Pai ce ati crezut voi, ca o sa intrati in Shengel inaintea noastra?""",jpg,Simple,Real,Positive,Joy,Yes,384,384,3,image/jpeg,23178,121,121,No,No
+353,400051,George Simion s-a mai calmat dupa ce a aflat ca in tunelurile dacice nu va fi taxa pe Soare.,jpg,Simple,Real,Negative,Anger,Yes,381,362,3,image/jpeg,29788,92,92,No,No
+354,400052,"""Vreau sa ne unim cu Moldova, dar nu inainte ca Moldova sa se uneasca cu patria-muma, Rusia!""",jpg,Simple,Real,Negative,Anger,Yes,382,381,3,image/jpeg,25877,93,93,No,No
+355,400053,FOAIE VERDE CURCUBEU MAI PROASTA CA MINE-S EU,jpg,Simple,Real,Neutral,Joy,Yes,682,493,3,image/jpeg,39391,45,45,Yes,No
+356,400054,"Succes, Joe Biden!",jpg,Simple,Real,Negative,Anger,Yes,714,509,3,image/jpeg,41284,18,18,No,No
+357,400055,HE-HE!,jpg,Simple,Real,Positive,Joy,Yes,323,293,3,image/jpeg,19448,6,6,Yes,No
+358,400056,Aducem Mec la tine in comuna,jpg,Simple,Real,Neutral,Surprise,Yes,687,629,3,image/jpeg,66370,28,28,No,No
+359,400057,Panouri solare care merg si noaptea Pentru toti romanii,jpg,Simple,Real,Neutral,Surprise,Yes,728,610,3,image/jpeg,48952,55,55,No,No
+360,400058,Voi interzice bormasina in weekend,jpg,Simple,Real,Neutral,Surprise,Yes,711,568,3,image/jpeg,33757,34,34,No,No
+361,400059,Facem weekendul de 5 zile,jpg,Simple,Real,Neutral,Surprise,Yes,580,556,3,image/jpeg,34615,25,25,No,No
+362,400060,BERE LA ROBINET IN CASA FIECARUI ROMAN,jpg,Simple,Real,Neutral,Surprise,Yes,718,500,3,image/jpeg,35363,38,38,Yes,No
+363,500001,Noi angajați de la McDonald's când văd otravă de șoareci și plicuri de laxaive puse în sertarul ”Pentru clienți”,webp,Simple,Real,Negative,Fear,No,552,557,3,image/webp,25182,112,124,No,No
+364,500002,Românii cand aud in copaci pasari diverse țipând si ciripind flindca sunt excitate in calduri si vor sex,jpeg,Simple,Real,Neutral,Sadness,No,1920,2083,3,image/jpeg,929788,104,107,No,No
+365,500003,Cum se uită gândacii la tine când aprinzi lumina în bucătărie.,png,Simple,Real,Neutral,Surprise,Yes,720,836,3,image/png,922652,62,68,No,No
+366,500004,Bunica pregătită să-mi dea perversa după ce i-am zis că nu imi e foame,png,Simple,Real,Negative,Fear,No,720,1001,3,image/png,733513,70,75,No,No
+367,500005,PARTIDUL SATANIST DOMINANT,png,Simple,Fake,Negative,Anger,Yes,956,1792,3,image/png,1817981,26,26,Yes,No
+368,500006,"pulverizator 
+fâs-fâs",jpg,Combination,Real,Positive,Joy,No,1024,919,3,image/jpeg,74337,21,23,No,Yes
+369,500007,Zi de nastere in anii 2000:,png,Combination,Real,Positive,Joy,No,851,820,3,image/png,643375,27,27,No,No
+370,500008,"MĂI ELISABETA, MĂI
+ȘI CE TÂNĂRĂ ERAI",png,Simple,Real,Negative,Sadness,No,513,486,3,image/png,269465,36,42,Yes,No
+371,500009,"Germania: Pierdem războiul!!
+România: TU îl pierzi",jpg,Simple,Fake,Positive,Surprise,Yes,1080,1259,3,image/jpeg,100599,50,53,No,No
+372,500010,"ÎN SFARSIT
+STAȚIUNEA TATAIA",jpg,Combination,Real,Neutral,Surprise,No,620,480,3,image/jpeg,25822,27,29,Yes,No
+373,500011,O eugenie,jpeg,Simple,Fake,Neutral,Joy,No,960,960,3,image/jpeg,75082,9,9,No,No
+374,500012,"> devine ministrul educatiei
+> FUTE TOT SISTEMUL
+> nu elaboreaza
+> isi da demisia",jpg,Simple,Fake,Negative,Anger,Yes,913,1270,3,image/jpeg,56115,81,81,No,No
+375,500013,Când auzi că se închide FileList,jpg,Simple,Real,Negative,Sadness,No,1200,873,3,image/jpeg,304420,32,35,No,No
+376,500014,"Bucuresteni: ""E mai mare chiria că plätesti zona""
+Zona:",jpg,Simple,Real,Negative,Sadness,No,960,698,3,image/jpeg,66897,55,57,No,No
+377,500015,Eu si cu tata chinuindu-ne cu tema la mate din clasa a doua,jpg,Combination,Real,Negative,Sadness,No,3839,3166,3,image/jpeg,860749,59,59,No,No
+378,500016,"Profesorii: *fac grevă, iar orele nu se tin*
+Elevii care nu sunt an terminal:",jpg,Combination,Real,Negative,Anger,Yes,1079,1356,3,image/jpeg,100154,77,78,No,No
+379,500017,"De ce juratii de la Masterchef România din 2012, arată ca o trupă pop/rock?",jpg,Simple,Real,Neutral,Surprise,No,1080,1013,3,image/jpeg,87399,75,78,No,No
+380,500018,Ai 16 ani din ce metrix trebuie să scapi bă vere uită te dreq la Ben 10 si lasă l pe Andrew Tate,png,Simple,Real,Negative,Anger,No,847,960,3,image/png,669478,96,100,No,No
+381,500019,Sunt pasionat de fotbal și de mașini,jpg,Simple,Fake,Neutral,Sadness,No,600,619,3,image/jpeg,51490,36,38,No,No
+382,500020,"Romanii: noi nu serbam Halloween, e un obicei anti-crestin sa iti pui masti de demoni
+Tot romanii:",jpg,Simple,Real,Neutral,Surprise,No,587,610,3,image/jpeg,46936,98,98,No,No
+383,500021,"Cluj
+120k ron",jpg,Simple,Fake,Negative,Sadness,No,1058,932,3,image/jpeg,32759,13,13,No,No
+384,500022,"""hai coae ca nu patesti nimic...""",jpg,Simple,Fake,Negative,Fear,No,960,796,3,image/jpeg,70961,33,33,No,Yes
+385,500023,Când nu știi ce să alegi...,jpeg,Combination,Fake,Negative,Sadness,Yes,1080,1101,3,image/jpeg,141708,27,30,No,No
+386,500024,NU AM VIATA SOCIALA DUPA CE AM STAT TOATA VIATA IN FATA PC-ULUI,jpg,Combination,Fake,Negative,Sadness,No,500,668,3,image/jpeg,69245,63,63,Yes,No
+387,500025,"DESCOPERIRE ARHEOLOGICĂ!
+FARAON ÎN VASLUI",jpg,Simple,Real,Neutral,Surprise,No,843,850,3,image/jpeg,90347,41,43,Yes,No
+388,500026,Vrei să-ți trag o cârja?,jpg,Simple,Real,Negative,Anger,No,320,293,3,image/jpeg,10710,24,27,No,No
+389,500027,sa mori tu,jpg,Simple,Fake,Neutral,Anger,No,736,915,3,image/jpeg,54906,10,10,No,Yes
+390,500028,P-ăsta nu-l prinde politia niciodată. Aude sirena cu 3 zile înainte.,jpg,Simple,Fake,Neutral,Surprise,No,564,645,3,image/jpeg,44216,68,71,No,No
+391,500029,"DORMEO...
+..NOAPTE BUNĂ",jpg,Combination,Fake,Negative,Fear,No,478,477,3,image/jpeg,14667,23,24,Yes,No
+392,500030,Sună mã si te rezolv...,jpg,Simple,Real,Positive,Joy,No,480,484,3,image/jpeg,19255,23,25,No,No
+393,500031,Când afli in pauză că ai avut temă,jpg,Combination,Real,Neutral,Fear,No,582,567,3,image/jpeg,46903,34,38,No,No
+394,500032,"CATALIN, Al LEGATURA!
+Da Andrea am legătura",jpg,Combination,Real,Neutral,Surprise,No,480,679,3,image/jpeg,35771,43,44,No,No
+395,500033,Bea o gură si taci!,jpg,Simple,Real,Positive,Joy,No,480,406,3,image/jpeg,26658,19,20,No,No
+396,500034,"Hey, scuze, cred ca m-ai lăsat cu seen din greseala",jpg,Simple,Real,Neutral,Surprise,No,736,910,3,image/jpeg,68920,51,52,No,No
+397,500035,in drum spre inima ta,jpg,Simple,Real,Positive,Love,No,735,685,3,image/jpeg,66199,21,21,No,Yes
+398,500036,AI DE PLM,jpg,Simple,Fake,Negative,Sadness,No,512,365,3,image/jpeg,20872,9,9,Yes,No
+399,500037,"Am nimerit la nebuni!
+Vaiii, ce-mi place!",jpg,Simple,Real,Positive,Joy,No,480,286,3,image/jpeg,16693,41,41,No,No
+400,500038,MAI RAR AȘA CEVA,jpg,Simple,Real,Neutral,Surprise,No,720,405,3,image/jpeg,23244,16,17,Yes,No
+401,500039,Se aproba,jpg,Simple,Real,Positive,Joy,Yes,540,540,3,image/jpeg,33332,9,9,No,No
+402,500040,AI GRIJA CE SPUI CA NU TE MAI SPOVEDESC,jpg,Simple,Real,Negative,Fear,No,720,1072,3,image/jpeg,51782,39,39,Yes,No
+403,500041,MA IA CU FREZOANE,jpg,Simple,Real,Neutral,Sadness,No,420,360,3,image/jpeg,17356,17,17,Yes,No
+404,500042,Hm. Imi pute a gay,jpg,Simple,Fake,Neutral,Surprise,No,720,732,3,image/jpeg,55096,18,18,No,No
+405,500043,"HALBĂ CA ZĂPADA
+ȘI CEI ȘAPTE MICI",jpg,Simple,Real,Positive,Joy,No,640,885,3,image/jpeg,77947,33,37,Yes,No
+406,500044,TACÂMURI PENTRU DIETĂ,jpg,Simple,Real,Neutral,Surprise,No,735,929,3,image/jpeg,158298,21,23,Yes,No
+407,500045,"Tu mi faci inima sã bată
+Cum nu o face nicio fată",jpg,Simple,Real,Neutral,Fear,No,640,641,3,image/jpeg,44020,49,52,No,No
+408,500046,PETRECEREA DE PIETONI,jpg,Simple,Fake,Positive,Joy,No,480,673,3,image/jpeg,77808,21,21,Yes,No
+409,500047,"RO ALERT
+EU",jpg,Simple,Real,Negative,Fear,No,720,720,3,image/jpeg,50747,11,11,Yes,No
+410,500048,NOUL ALBUM AL LUI SALAM,jpg,Simple,Real,Neutral,Surprise,No,536,570,3,image/jpeg,30147,23,23,Yes,No
+411,500049,"Profa: Porniti camerele sa va vad
+Eu care de abia m-am trezit:",jpg,Simple,Real,Neutral,Surprise,No,736,736,3,image/jpeg,48991,62,62,No,No
+412,500050,Client: Oare de ce vine mancarea rece ?,jpg,Simple,Real,Negative,Surprise,No,1080,1343,3,image/jpeg,103733,39,39,No,No
+413,500051,Intotdeauna se găseste o prietenă căreia să-i fie frică la filmele de groaza,jpg,Combination,Real,Neutral,Surprise,No,945,1081,3,image/jpeg,101301,76,81,No,No
+414,500052,Mă pun la somn să mă odihnesc si visez că lucrez,jpg,Simple,Fake,Neutral,Fear,No,720,720,3,image/jpeg,33761,48,52,No,No
+415,500053,"degeaba ma abin sã nu zic ceva, că mi se citeşte pe fată",jpg,Simple,Real,Negative,Anger,No,945,913,3,image/jpeg,68127,56,60,No,Yes
+416,500054,"""de ce nu vrei sa intrii la o cafea?""
+sosetele mele:",jpg,Simple,Real,Neutral,Surprise,No,806,1047,3,image/jpeg,72176,52,52,No,Yes
+417,500055,"Azi esti tanar, maine ii faci crispy la o pitica de 1,56 cu nervi turbo diesel de stie sa loveascã la ficat",jpg,Simple,Real,Neutral,Fear,No,815,1179,3,image/jpeg,92651,107,108,No,No
+418,500056,Când te cheamă bietii la furat dar mă-ta nu te lasă să iesi din casă,jpg,Combination,Fake,Neutral,Sadness,No,1079,1110,3,image/jpeg,122120,68,74,No,No
+419,500057,"Am lista cu toti care au dat cu petarde, îi astept sã treac cu bicicleta.",jpg,Simple,Real,Negative,Anger,No,1079,882,3,image/jpeg,94331,73,75,No,No
+420,500058,VÂND OM DE ZĂPADĂ DEMONTAT,jpg,Simple,Real,Neutral,Surprise,No,750,742,3,image/jpeg,57998,26,29,Yes,No
+421,500059,"Eu: Am luat salariul.
+Maşina: Salariul nostru",jpg,Simple,Fake,Negative,Sadness,No,1080,1111,3,image/jpeg,63248,45,46,No,No
+422,500060,"Trezitul nu e o problemã
+Cu ridicatul din pat e mai greu..",jpg,Simple,Fake,Negative,Sadness,No,619,576,3,image/jpeg,30205,58,59,No,No
+423,500061,"- Nu o să mai găsesti niciuna ca mine!
+- Aşa să m-ajute Dumnezeu",jpg,Combination,Real,Neutral,Anger,No,786,659,3,image/jpeg,45173,64,68,No,No
+424,500062,îti arät eu revoltă imediat...,jpg,Simple,Fake,Negative,Anger,Yes,1080,810,3,image/jpeg,106799,30,33,No,Yes
+425,500063,"Noaptea in alte tări.
+Noaptea in România.",jpg,Combination,Real,Negative,Fear,No,778,960,3,image/jpeg,72069,41,43,No,No
+426,500064,CÂND NU VREI SĂ SIMTĂ TAC-TU CĂ AI FUMAT IN MASINA LUI,jpg,Simple,Real,Neutral,Fear,No,604,680,3,image/jpeg,38357,54,58,Yes,No
+427,500065,DE 1 IUNIE SĂ NU UITĂM DE CEL MICI!,jpg,Simple,Real,Neutral,Joy,No,945,771,3,image/jpeg,99755,35,37,Yes,No
+428,500066,Ăstia puteam fi noi dar tie ti-a plăcut scoala,jpg,Simple,Real,Neutral,Sadness,No,820,960,3,image/jpeg,53838,46,48,No,No
+429,500067,Când ești in perfectă armonie cu natura.,jpg,Simple,Real,Neutral,Surprise,No,720,657,3,image/jpeg,57734,40,43,No,No
+430,500068,Mergi sa-i cunosti parintii si i suna telefonu' lu' tacsu la tine in geacă,jpg,Combination,Fake,Neutral,Fear,No,945,1654,3,image/jpeg,133052,74,75,No,No
+431,500069,"Cum plătiți?
+Cu lacrimi în ochi!",jpg,Simple,Real,Negative,Sadness,No,720,559,3,image/jpeg,35080,32,35,No,No
+432,500070,"Prieteni: Când o sã ai si tu copii?
+Eu: Am deja un copil",jpg,Simple,Real,Positive,Love,No,1080,850,3,image/jpeg,60992,56,58,No,No
+433,500071,"Tu si acel prieten, în parcare la Kautland, la ora 24, după două beri:",jpg,Simple,Fake,Positive,Joy,No,792,938,3,image/jpeg,55213,70,73,No,No
+434,500072,Dacă nu vă potoliți îl opresc iar ....,jpg,Simple,Real,Negative,Anger,No,720,618,3,image/jpeg,28618,38,42,No,No
+435,500073,Când vă despartiti si vă cereti cadourile inapoi.,jpg,Combination,Real,Neutral,Surprise,No,720,689,3,image/jpeg,70952,49,52,No,No
+436,500074,Plantele din casă când văd că pun apă în espressorul de cafea,jpg,Simple,Real,Neutral,Sadness,No,1020,868,3,image/jpeg,87209,61,67,No,No
+437,500075,Atunci când te intorci de la muncă din Italia si trebuie sã te culci din nou cu souțl tău pe gratis...,png,Simple,Real,Negative,Sadness,No,1508,1292,3,image/png,1475862,102,107,No,No
+438,500076,"NU IMI PASA DE TRECUTUL TAU
+TRECUTUL EI:",png,Combination,Real,Neutral,Surprise,No,1504,1504,3,image/png,3217255,40,40,Yes,No
+439,500077,I-am spus ca poate să o bage oriunde și el a băgat-o în sor'mea,png,Simple,Real,Negative,Sadness,No,1334,1384,3,image/png,1537579,63,67,No,No
+440,500078,"Când cineva îmi zice ""iar mănânci?""",png,Simple,Real,Neutral,Anger,No,1504,1302,3,image/png,1802797,35,39,No,No
+441,500079,Când i-ai trimis mesajul acum 7h si a fost activa acum 10 minute,png,Simple,Fake,Negative,Sadness,No,1500,1470,3,image/png,1540010,64,65,No,No
+442,500080,"""câtă răbdare poti avea?""
+eu:",png,Simple,Real,Neutral,Surprise,No,1502,1500,3,image/png,1883203,29,32,No,Yes
+443,500081,Eu asteptând sã îmi dai mesaj,png,Simple,Real,Negative,Sadness,No,1504,1496,3,image/png,1927191,29,32,No,No
+444,500082,"Întâi facem o poza sa punem pe story 
+Eu:",png,Simple,Real,Neutral,Surprise,No,1300,1496,3,image/png,2176685,41,43,No,No
+445,500083,Eu făcându mi câtiva cartofi si două ouă ochiuri,png,Simple,Real,Neutral,Fear,No,1502,1492,3,image/png,2074603,48,53,No,No
+446,500084,"CIORBĂ DE BERISOARE, urmăriți-ne pentru mai multe rețete!!",png,Simple,Real,Neutral,Surprise,No,1502,1082,3,image/png,1812860,58,62,No,No
+447,500085,Eu uitându-mã la povestea mea la fiecare 2 minute pentru că imi place melodia pe care am pus-o,png,Simple,Real,Positive,Joy,No,1196,1492,3,image/png,1475443,94,97,No,No
+448,500086,Asa arata Raiul pentru o fata,png,Simple,Real,Positive,Love,No,1334,1504,3,image/png,3002222,29,29,No,No
+449,500087,"chelnerul: plătiți împreună sau separat? 
+femeile:",png,Simple,Real,Neutral,Fear,No,1464,1366,3,image/png,1627216,50,54,No,Yes
+450,500088,"Cand cuiva Începe sã îi pese de mine
+Eu:aici suna a manevră",png,Simple,Fake,Negative,Fear,No,1498,1470,3,image/png,1681944,59,63,No,No
+451,500089,"Eu la 13 ani: Cum am făcut 18 ani dau de carnet și îmi iau mașină
+Eu la 18 ani:",png,Combination,Fake,Neutral,Sadness,No,1202,1498,3,image/png,2114675,79,84,No,No
+452,500090,"""VREAU SI EU O EMOLOAICA DIN AIA""",png,Simple,Fake,Neutral,Love,No,1502,1482,3,image/png,2281766,33,33,Yes,No
+453,500091,"degeaba ma vorbiți de bine
+ca mie tot rau imi merge",png,Simple,Real,Negative,Sadness,No,1302,1498,3,image/png,3070529,51,52,No,Yes
+454,500092,Anestezie lași 2022,png,Simple,Real,Negative,Fear,No,1060,1484,3,image/png,2098889,19,20,No,No
+455,500093,CE S-A SCHIMBAT TURNU EFEL,png,Simple,Real,Positive,Surprise,No,1502,1376,3,image/png,2188776,26,26,Yes,No
+456,500094,Saptamana cailor la lidl,png,Simple,Fake,Neutral,Surprise,No,1350,1408,3,image/png,2359557,24,24,No,No
+457,500095,Checutu',png,Simple,Fake,Neutral,Surprise,No,1494,1442,3,image/png,2596727,8,8,No,No
+458,500096,"CAND INTRA HOȚII IN CASA
+SI TE UITI CUM CAUTA BANII PE CARE NU II AI",png,Simple,Real,Negative,Sadness,No,1488,1446,3,image/png,1635142,68,69,Yes,No
+459,500097,Eu Tu,png,Combination,Fake,Positive,Love,No,1500,1000,3,image/png,2465886,5,5,No,No
+460,500098,"M-AM DUS PE ȘANTIER, POATE AȘA CONSTRUIM ȘI NOI UN VIITOR ÎMPREUNA",png,Simple,Real,Neutral,Love,No,1238,1498,3,image/png,2235587,66,70,Yes,No
+461,500099,cu berea in mana si cu gandul la tine,png,Simple,Real,Positive,Love,No,1498,1370,3,image/png,2162526,37,37,No,Yes
