@@ -1,0 +1,472 @@
+,Complexity,Real_Fake,Political,TextUppercase,TextLowercase,text,label
+411,Simple,Real,No,No,No,"Profa: Porniti camerele sa va vad
+Eu care de abia m-am trezit:",Neutral
+265,Simple,Fake,Yes,No,No,PSD PSD PSD Razand biciuim moravurile,Neutral
+57,Simple,Real,No,No,No,"Mihai, tu mi-ai pus praf saharian pe Logan?!",Negative
+199,Simple,Fake,No,No,No,Când mama intră în camera mea după ce am facut curat,Neutral
+175,Simple,Fake,No,Yes,No,MOMENTUL ĂLA CÂND NU ȘTII DACĂ MAI E CUTREMUR SAU E DOAR PULSUL,Neutral
+24,Simple,Real,No,Yes,No,AI TĂI DUPĂ CE TE ÎNTORCI LA ȘCOLALĂ,Positive
+17,Combination,Real,No,No,No,"Big Mac 
+Sarma",Positive
+66,Combination,Real,No,No,No,"PROFESOARA DE FRANCEZĂ: SCRIEȚI UN ESEU DE 3 PAGINI! 
+EU: 
+Google Translate 
+Ctrl V",Neutral
+418,Combination,Fake,No,No,No,Când te cheamă bietii la furat dar mă-ta nu te lasă să iesi din casă,Neutral
+86,Simple,DeepFake,Yes,No,No,"Azi de dimineață într-un apartament din București 
+Hooo, Nicușor!",Neutral
+31,Combination,DeepFake,Yes,Yes,No,"AVEȚI COVRIGEI LA 1 LEU? 
+DA! 
+CÂT COSTĂ?",Negative
+84,Simple,Real,No,No,No,"Când ajungi prima oară în Cluj 
+recorder 
+Mai este mult până la metrou?",Negative
+316,Combination,Fake,Yes,No,No,De la putere la decadere,Neutral
+443,Simple,Real,No,No,No,Eu asteptând sã îmi dai mesaj,Negative
+192,Simple,Real,No,Yes,No,MĂ ÎNRTEB CE I-A SPUS FRIZERULUI,Neutral
+117,Simple,Fake,No,No,No,Prietenul tău care a venit cu 2 alți băieți la petrecerea ta,Negative
+94,Simple,Real,Yes,Yes,No,"DAN BARNA, CITIND ZIARUL.",Negative
+250,Simple,Real,Yes,No,No,Se unde știu că demiterea lui VeVe o măsură bună? Fiindcă deranjează. PROFU' de sănătate publică,Positive
+438,Combination,Real,No,Yes,No,"NU IMI PASA DE TRECUTUL TAU
+TRECUTUL EI:",Neutral
+249,Combination,Real,Yes,Yes,No,PNL USR PLUS UDMR,Negative
+452,Simple,Fake,No,Yes,No,"""VREAU SI EU O EMOLOAICA DIN AIA""",Neutral
+237,Simple,Real,No,No,No,Toți merităm respect!,Positive
+220,Simple,Real,No,No,No,Ce aveti fără zahăr și să nu îngrașe? Șervețele!,Positive
+104,Simple,Real,No,No,No,eu: putem sa ne oprim la McDrive? maica-mea: avem McDrive acasa  McDrive acasa:,Negative
+297,Simple,Real,Yes,No,No,IOHANIS Dezbinarea-i arma mea.. EU SUNT PRINCIPALUL PERICOL PENTRU ROMANIA!,Neutral
+5,Simple,DeepFake,No,Yes,No,"SPALATORIE DE PACATE  
+SPALATORIE DE PACATE 
+SPALATORIE DE PACATE CU AGHEASMA SUB PRESIUNE",Neutral
+116,Simple,Fake,No,No,No,Mamele uitându-se la copiii lor cum cresc și se duc la facultate:,Neutral
+45,Simple,Real,Yes,No,No,Eu cu salariul in mana incercand sa imi aduc aminte cand a lucrat guvernul jumatate din turele mele,Negative
+307,Simple,Real,Yes,No,No,Decat nota!,Neutral
+228,Simple,Real,No,No,No,"vând cozonac IKEA, trebuie doar montat! Rogseriozitate!",Positive
+399,Simple,Real,No,No,No,"Am nimerit la nebuni!
+Vaiii, ce-mi place!",Positive
+290,Simple,Fake,Yes,No,No,Se înființează de urgență Uniunea Salvați USR! Little Yoda to the rescue! #memepolitice,Neutral
+16,Simple,Fake,Yes,No,No,Așteptând să vină apa caldă,Negative
+428,Simple,Real,No,No,No,Ăstia puteam fi noi dar tie ti-a plăcut scoala,Neutral
+63,Simple,DeepFake,Yes,No,No,"Klaus Iohannis 
+43m 
+Asta cu 3 euro in plus la Netflix pentru fiecare locuință mi se pare o prostie, sincer! 
+20,2K 
+7,0K Comments 2,8K Shares 
+Like Comment Share",Negative
+329,Simple,Fake,Yes,No,No,Miau...taiat-o!,Negative
+3,Simple,Real,Yes,No,No,"Eu, uitându-mă pe ultimele sondaje politice din România:",Negative
+153,Simple,Real,No,Yes,No,"OK, GOOGLE, UNDE E MASINA MEA?",Neutral
+60,Simple,Real,No,No,No,"Și, cum ai de gând să o impresionezi? 
+El:",Negative
+110,Combination,Fake,Yes,Yes,No,NU ARUNCĂ LUMEA CU OUĂ ÎN TINE DACĂ SUNT PREA SCUMPE,Negative
+333,Combination,Fake,No,Yes,No,ROMANIA IN PRELIMINARII  ROMANIA IN AMICALE,Negative
+229,Combination,Real,No,No,No,Babele din România Babele din Europa,Negative
+29,Simple,Real,No,Yes,No,"DE 1 IUNIE 
+SĂ NU UITĂM DE CEI MICI",Positive
+154,Simple,Real,No,No,No,Fanii Coldplay când văd maneliști pe scenă,Negative
+231,Combination,Fake,Yes,No,No,Il omor sau nu? NU DA Voi alegeti :)),Neutral
+26,Simple,Fake,No,Yes,No,CUM NUMĂRĂ UN INGINER OILE CÂND VREA SĂ ADOARMĂ,Negative
+7,Simple,Real,No,Yes,No,EU EXPLICANDU-LE ROMANILOR CA NU E OK SA FACA MISTO CAND ESTE UN SUBIECT SERIOS,Negative
+421,Simple,Fake,No,No,No,"Eu: Am luat salariul.
+Maşina: Salariul nostru",Negative
+108,Simple,Real,No,No,No,Când vrei să te răzbuni pe musca care nu te-a lăsat să dormi toată noaptea,Negative
+238,Simple,Fake,No,No,No,Mâine-i luni!,Negative
+432,Simple,Real,No,No,No,"Prieteni: Când o sã ai si tu copii?
+Eu: Am deja un copil",Positive
+118,Simple,Fake,No,No,No,Cuplurile după 9 luni de carantină împreună,Negative
+114,Simple,Fake,No,Yes,No,CAND ESTI SINGUR ACASA SI AUZI UN ZGOMOT,Negative
+360,Simple,Real,Yes,No,No,Voi interzice bormasina in weekend,Neutral
+422,Simple,Fake,No,No,No,"Trezitul nu e o problemã
+Cu ridicatul din pat e mai greu..",Negative
+239,Combination,Real,No,No,No,CE ITI PLACE SA BEI Bere LAPTE!!! LAPTE!!!,Positive
+341,Simple,Real,No,No,No,Singurul antrenor care poate duce Romania la un turneu final,Neutral
+351,Simple,Real,Yes,No,No,"Patriarhul Daniel a intrat in Pstul Negru Metalizat, 530 CP, motor V12 in 6 litri. Postul prinde 100 km/h in 5 secunde.",Negative
+381,Simple,Fake,No,No,No,Sunt pasionat de fotbal și de mașini,Neutral
+379,Simple,Real,No,No,No,"De ce juratii de la Masterchef România din 2012, arată ca o trupă pop/rock?",Neutral
+181,Simple,Real,No,Yes,No,ORICE ELEV PE 10 SEPTEMBRIE,Neutral
+439,Simple,Real,No,No,No,I-am spus ca poate să o bage oriunde și el a băgat-o în sor'mea,Negative
+141,Simple,Fake,No,No,No,Eu la toate petrecerile prezentând colecția mea secretă de meme-uri care încă nu au fost postate,Positive
+368,Combination,Real,No,No,Yes,"pulverizator 
+fâs-fâs",Positive
+244,Simple,Real,Yes,No,No,Când ai votat cu USR și tre' să te prefaci că e totul o.k.,Negative
+380,Simple,Real,No,No,No,Ai 16 ani din ce metrix trebuie să scapi bă vere uită te dreq la Ben 10 si lasă l pe Andrew Tate,Negative
+320,Simple,Real,No,No,No,"Steagul oficial, al anului 2020!",Negative
+109,Simple,Real,No,No,No,Când încerc sa mănânc noaptea în liniște și scap lingura pe jos,Negative
+208,Simple,Real,Yes,No,No,Mai multe filiale ale Institului Cantacuzino au reluat producția de vaccinuri antigripale...,Neutral
+145,Simple,Real,No,No,No,Tata uitându-se la nota mea de 2 la exercițiile de matematică pe care el singur le-a rezolvat,Negative
+325,Simple,Real,No,Yes,No,AM RAS,Positive
+152,Simple,Real,No,Yes,No,CE SIMPLU AR FI DACA N-AR FI GREU,Negative
+405,Simple,Real,No,Yes,No,"HALBĂ CA ZĂPADA
+ȘI CEI ȘAPTE MICI",Positive
+193,Simple,DeepFake,No,No,No,"Cum adica, lucrez pe 31 decembrie?",Neutral
+83,Combination,Real,No,No,No,"Munikipiul București - PMkB 
+10 septembrie la 18:08 
+© Ionuț Oprea 
+Urmeaza statia Drumul Taberei cu peronul pe partea stanga",Positive
+395,Simple,Real,No,No,No,Bea o gură si taci!,Positive
+165,Simple,Real,No,Yes,No,IN ROMANIA NU CONTEAZA CINE ESTI  CONTEAZA UNDE PARCHEZI,Neutral
+280,Combination,Real,Yes,No,No,FACEBOOK Linkedin Instagram Tinder,Positive
+436,Simple,Real,No,No,No,Plantele din casă când văd că pun apă în espressorul de cafea,Neutral
+74,Combination,Real,No,Yes,No,"ÎNAINTE DE FILM: 
+TOT ÎNAINTE DE FILM:",Neutral
+430,Combination,Fake,No,No,No,Mergi sa-i cunosti parintii si i suna telefonu' lu' tacsu la tine in geacă,Neutral
+317,Simple,Fake,No,No,No,Vrei ceva de la mega ?,Neutral
+210,Simple,Real,No,No,No,"Când trebuie să faci curățenie, dar nu ai nicio motivație așa că stai un pic să își aduni forțele.",Neutral
+119,Simple,Fake,No,No,No,Eu încercând să par relaxat uitându-mă la televizor în timp ce mama vorbește cu diriginta la telefon,Neutral
+441,Simple,Fake,No,No,No,Când i-ai trimis mesajul acum 7h si a fost activa acum 10 minute,Negative
+410,Simple,Real,No,Yes,No,NOUL ALBUM AL LUI SALAM,Neutral
+375,Simple,Real,No,No,No,Când auzi că se închide FileList,Negative
+355,Simple,Real,Yes,Yes,No,FOAIE VERDE CURCUBEU MAI PROASTA CA MINE-S EU,Neutral
+455,Simple,Real,No,Yes,No,CE S-A SCHIMBAT TURNU EFEL,Positive
+334,Combination,Real,No,Yes,No,"TATI, CE INSEAMNA SA DAI GOL? NU STIU FIULE, SUNTEM FANI ROMANIA",Negative
+275,Simple,Real,Yes,Yes,No,AM GĂSIT 23 DE ORDONANȚE LA PENELEU,Neutral
+354,Simple,Real,Yes,No,No,"""Vreau sa ne unim cu Moldova, dar nu inainte ca Moldova sa se uneasca cu patria-muma, Rusia!""",Negative
+245,Simple,Real,Yes,No,No,Adoptă o căpușă! O campanie PNL USRPLUS pentru București USRPLUS,Negative
+36,Combination,Real,No,Yes,Yes,"2022 
+2024",Negative
+139,Combination,Fake,No,No,No,"Eu : mă scuzați că am întârziat, traficul a fost cam greu   Profa pe webcam :",Negative
+336,Simple,Fake,Yes,Yes,No,ECHIPA NATIONALA,Negative
+204,Simple,Real,No,No,No,"Atâta timp cât din leu nu se pot face sarmale, pentru mine tot porcul rămâne regele animalelor :))",Positive
+403,Simple,Real,No,Yes,No,MA IA CU FREZOANE,Neutral
+261,Simple,Fake,Yes,Yes,No,"MINISTRA ÎNVĂȚĂMÂNTULUI: ""NICIO ȘCOALĂ FĂRĂ PEPSIGLASS PE BĂNCI!""",Neutral
+59,Simple,Real,No,Yes,No,"INCALZIREA GLOBALA 
+ASA A VRUT DUMNEZEU 
+16 GRADE IARNA",Negative
+111,Simple,Fake,No,No,No,Eu la munca incercand sa par ocupat,Neutral
+248,Simple,Real,Yes,No,No,Adoptă un țânțar! O campanie PNL USRPLUS pentru București USRPLUS,Negative
+287,Simple,Real,No,Yes,No,NU-I MOMENTU' ACUUUUUUM,Negative
+6,Combination,Fake,No,No,No,Când încerci să înțelegi logica șoferilor care claxonează deși semaforul este roșu,Negative
+332,Simple,Fake,No,Yes,No,FANII ROMANIEI ASTEPTAND UN GOL CU LICHTENSTEIN,Negative
+318,Simple,Fake,Yes,Yes,No,BREXIT,Negative
+158,Simple,Real,No,No,No,Când îi vezi pe ăia din provincie că fac meme cu metroul din București,Negative
+150,Combination,Fake,No,Yes,No,TOTI ROMANII CARE AU CRITICAT NATIONALA INAINTE DE EURO,Negative
+177,Simple,Real,No,Yes,No,CAND TU SI PRIETENII TAI  AFLATI CA ATI LUAT BACUL,Positive
+184,Simple,Real,Yes,Yes,No,ASTA PUTEA FI ROMANIA  DAR TU VOTEZI CU PSD,Negative
+10,Combination,Real,No,No,No,"Amator ,,Banii sau viața!"" 
+Profesionist ,,Semnează aici pentru încheierea acordului de vasalitate""",Negative
+322,Simple,Fake,No,No,No,The Trollfather,Negative
+103,Simple,Fake,Yes,No,No,Bucurestean in hainele de casa pe timpul iernii,Negative
+81,Simple,Real,No,Yes,No,"O SĂ MĂ APUC DE ÎNVĂȚAT LA 11. 
+CEASUL MEU: 
+10:65",Negative
+38,Simple,Real,Yes,No,No,"Bihorenii în priul rând. 
+Pentru Consiliul Județean Bihor",Negative
+346,Simple,Real,Yes,Yes,No,DAC-AS FI PENTRU O ZI PRESEDINTE,Positive
+167,Simple,Real,No,Yes,No,CUM TE SIMȚI CĂND ȚI-AI FĂCUT TEMELE DE VACANȚĂ  ȘI COLEGII APELEAZĂ LA TINE,Positive
+434,Simple,Real,No,No,No,Dacă nu vă potoliți îl opresc iar ....,Negative
+338,Simple,Real,No,No,No,Minutul 70...coafura rezista!,Negative
+198,Simple,Real,No,Yes,No,MOMENTUL ALA CANDII VEZI PE AIA DE LA ANTENA 1  CUM ARATA IN HD,Neutral
+271,Simple,Fake,Yes,No,No,- Si una de jale,Neutral
+311,Simple,Real,No,No,No,Asta inseamna sa fii mafiot,Positive
+218,Simple,Real,No,No,No,"Iubit, ti-am făcut programare la solar!",Positive
+194,Simple,Fake,No,Yes,No,CÂND AȘTEPȚI CA O TELEVIZIUNE ROMÂNĂ  SĂ DEA O ȘTIRE DESPRE CUTREMUR,Negative
+89,Simple,Real,No,Yes,No,"ASTA INSEAMNA 
+SA FII MAFIOT",Neutral
+253,Simple,Real,No,Yes,No,"ALO, DISPECERATUL? VĂ ROG AJUTAȚI-MĂ, MI-A INTRAT APA ÎN CASĂ ĂĂĂ... PLATĂ SAU MINERALĂ?",Negative
+163,Simple,Real,No,No,Yes,grupuri de intelectuali romani discutand diferentele dintre nihilism si existentialism,Negative
+412,Simple,Real,No,No,No,Client: Oare de ce vine mancarea rece ?,Negative
+147,Simple,Real,No,No,No,Când trece dirigintele pe lângă tine după ce i-ai spus că nu vii la școală că ești răcit,Negative
+2,Simple,Real,No,No,No,"Închiriez apartament cu 2 camere, recent renovat, situat într-o zonă bună, utilat, etc. 
+Preț: 1000 de euro pe lună, nu se negociază, rog seriozitate.",Negative
+92,Simple,Real,Yes,Yes,No,"CÂND VEZI PRIMELE EXIT POLL-URI 
+CE-I, FĂ, ASTA?",Negative
+370,Simple,Real,No,Yes,No,"MĂI ELISABETA, MĂI
+ȘI CE TÂNĂRĂ ERAI",Negative
+69,Simple,Fake,No,Yes,No,APĂ CHIOARĂ,Neutral
+262,Simple,Real,Yes,Yes,No,ROM\NII PNL BANII PUBLICI,Positive
+123,Combination,Fake,No,No,No,Eu: *povestesc mamei despre ziua mea la școală   Mama care deja a primit un sunet de la școală despre faptul că nu am fost la lecții,Negative
+340,Simple,Fake,No,No,No,"Mircea, iti spun sincer, eu am vrut sa-l fac zidar. Dar a insistat sotia....",Negative
+96,Simple,Real,No,No,No,"Buna ziua, aveti 2 secunde sa vorbim despre mantuitorul nostru Iisus Hristos?",Neutral
+143,Simple,Fake,No,No,No,Cum se simt cei care cumpără sare de Himalaya în loc de sare normală,Positive
+349,Simple,Real,Yes,No,No,PSD a renuntat la boicot. Si-au dat seama ca e o mare lipsa de responsabilitate sa boicoteze cele mai biune surse de spaga.,Positive
+450,Simple,Fake,No,No,No,"Cand cuiva Începe sã îi pese de mine
+Eu:aici suna a manevră",Negative
+246,Simple,Real,Yes,No,No,Adoptă un șobolan! O campanie PNL USRPLUS pentru București USRPLUS,Negative
+97,Combination,Real,No,No,No,"TU 
+PISICA 
+bagi bradul în casă
+scoți globurile 
+împodobști 
+termini de împodobit",Negative
+284,Simple,Fake,Yes,No,No,nimeni: nimic ludovic orban: sa impozitam IT-istii,Negative
+68,Simple,Real,No,No,No,"-Bă frate cum naiba ai primit un 10? Ești corigent mai mereu... 
+Eu:",Neutral
+23,Simple,Real,No,No,No,"Maestre, da-mi un sfat bun pentru zilele noastre 
+Oriunde te-ai duce, 
+nu uita incarcatorul",Positive
+37,Combination,Real,No,No,No,"Ce folosesc pentru a face duș:
+ Femeile:
+ Bărbații:
+ BALSAM
+ Mămăligă cu brânză de capră",Neutral
+144,Simple,Fake,No,No,No,"Când te-ai dus la mare pentru a scăpa de depresie, dar acum stai la mare depresat",Negative
+122,Combination,Real,No,No,No,"Eu căutând online cum să fac venit pasiv fără universitate, fără investiții și fără lucru",Negative
+183,Simple,Real,No,Yes,No,DE 1 IUNIE  SĂ NU UITĂM DE CEI MICI,Positive
+202,Simple,Real,No,No,No,-Cand mergeti sa colindati? -Cand boierii nu-s acasa...,Negative
+182,Combination,Fake,No,Yes,No,MOMENTUL ALA CAND AI COLEGI CU MANA PE SUS  SI PROFA TE ALEGE PE TINE,Negative
+67,Combination,Fake,No,Yes,No,"TE-AI PREGĂTIT PENTRU PREZENTAREA DE ASTĂZI, AI ÎNVĂȚAT TOTUL ȘI EȘTI GATA PENTRU ABSOLUT ORICE. 
+AUZI CĂ PROFESORUL TĂU A MURIT",Negative
+247,Simple,Real,Yes,No,No,Adoptă o groapă! O campanie PNL USRPLUS pentru București USRPLUS,Negative
+365,Simple,Real,Yes,No,No,Cum se uită gândacii la tine când aprinzi lumina în bucătărie.,Neutral
+272,Simple,Real,Yes,No,No,TREI PAHARE LA BĂIATU' ȘI PLEC #memepolitice CAMERA DEPUTAȚILOR,Positive
+323,Simple,Real,No,No,No,Cateodata beau un pahar cu apa,Positive
+274,Simple,Fake,Yes,Yes,No,CE FACEȚI AICI? DĂM ORDONANȚE!,Positive
+367,Simple,Fake,Yes,Yes,No,PARTIDUL SATANIST DOMINANT,Negative
+386,Combination,Fake,No,Yes,No,NU AM VIATA SOCIALA DUPA CE AM STAT TOATA VIATA IN FATA PC-ULUI,Negative
+125,Simple,Fake,No,No,No,"Fața mea când bancomatul face ""krrrrrrrrrrrrrr"" înainte să imi dea 1000 de lei în bancote de 1",Neutral
+146,Simple,Fake,No,No,No,Eu de 25 ani care încă nu am învățat cum e corect să te comporți când cineva plânge,Negative
+352,Simple,Real,Yes,No,No,"Vladimir Putin , mesaj de ultima ora pentru romani: ""Pai ce ati crezut voi, ca o sa intrati in Shengel inaintea noastra?""",Positive
+460,Simple,Real,No,Yes,No,"M-AM DUS PE ȘANTIER, POATE AȘA CONSTRUIM ȘI NOI UN VIITOR ÎMPREUNA",Neutral
+223,Combination,Real,Yes,No,No,Un țăran avea o iapă. Până i-au furat-o TÂGANII !!! SFÂRȘIT!,Negative
+388,Simple,Real,No,No,No,Vrei să-ți trag o cârja?,Negative
+219,Simple,Fake,No,No,No,Cand ai nevoie de psiholog dar decizi sa te tratezi singura!,Negative
+129,Combination,Real,No,No,No,"Când ai văzut pe frigider un bilețel de la prietena ta care scire ""Nu mai merge"", iar când deschizi frigiderul vezi că el defapt merge",Negative
+390,Simple,Fake,No,No,No,P-ăsta nu-l prinde politia niciodată. Aude sirena cu 3 zile înainte.,Neutral
+404,Simple,Fake,No,No,No,Hm. Imi pute a gay,Neutral
+302,Simple,Real,Yes,No,No,"Iliescu explica cum a pacalit moartea: ""De 25 de ani ma cauta doar la puscarie si eu sunt acasa""",Positive
+459,Combination,Fake,No,No,No,Eu Tu,Positive
+266,Simple,Fake,Yes,No,No,60 De pruna,Neutral
+400,Simple,Real,No,Yes,No,MAI RAR AȘA CEVA,Neutral
+268,Simple,Fake,Yes,No,No,"Când vrei să mergi în vacanță, dar e pandemie de coronavirus",Negative
+433,Simple,Fake,No,No,No,"Tu si acel prieten, în parcare la Kautland, la ora 24, după două beri:",Positive
+112,Simple,Fake,No,No,No,Cand te uiti la ceas sa vezi cat mai ai de dormit si vezi ca mai sunt 5 minute pana suna alarma,Negative
+179,Simple,Fake,No,Yes,No,CAND TOTI PRIETENII TAI SUNT AFARA   SI TU AI TEME DE FACUT,Neutral
+281,Combination,DeepFake,Yes,Yes,Yes,2020 2030,Neutral
+312,Combination,Real,No,No,No,"Si, ce abilitati aveti ?",Neutral
+377,Combination,Real,No,No,No,Eu si cu tata chinuindu-ne cu tema la mate din clasa a doua,Negative
+445,Simple,Real,No,No,No,Eu făcându mi câtiva cartofi si două ouă ochiuri,Neutral
+331,Simple,Real,Yes,No,Yes,guvern protestatari jandarmi,Positive
+233,Combination,Fake,No,No,No,Sa nu il scapi e scump! Sa nu il scapi gresia e scumpa!,Neutral
+289,Simple,Fake,Yes,No,No,ROBU aflând ca DNA îl trimite în judecată #memepolitice,Negative
+164,Combination,Fake,No,No,No,Când ai zis că iei trei puncte cu Bosnia și n-ai luat nimic din nou,Negative
+136,Simple,Real,No,No,No,Eu în timp ce mă pregătesc de un video call care putea să fie un simplu email,Negative
+197,Simple,Fake,No,No,No,Când auzi oameni că se ceartă pe strada ta,Neutral
+258,Simple,Real,Yes,No,No,Iohanis Ciolos Orban Barna Kelemen hunor,Negative
+232,Combination,Fake,Yes,No,No,pe cine il alegi? comm cu:* comm cu :X,Neutral
+115,Simple,Real,No,Yes,No,CAND COBORI LA TOMBERON SA ARUNCI GUNOIUL,Positive
+120,Combination,Fake,No,No,No,Dintele meu cariat uitându-se la mine cum plătesc ultimii 300€ pentru haine băutură și țigări în loc să mă duc la dentist,Negative
+321,Simple,Real,No,Yes,No,YOU WILL REGRET WALKING ME UP!,Negative
+224,Simple,Real,No,No,No,După ce bați un tâgan...,Negative
+373,Simple,Fake,No,No,No,O eugenie,Neutral
+310,Simple,Real,No,No,No,Cum se uita un sofer de BMW la olinia de tramvai libera,Positive
+127,Combination,Fake,No,No,No,Eu la 3 ani după ce mi-am turnat suc de mere în paharul de vin ca să pot bea cu toți la masă,Positive
+285,Simple,Real,Yes,No,No,"pnl, imediat dupa ce castiga alegerile si impoziteaza veniturile IT-stilor",Positive
+382,Simple,Real,No,No,No,"Romanii: noi nu serbam Halloween, e un obicei anti-crestin sa iti pui masti de demoni
+Tot romanii:",Neutral
+107,Simple,Real,Yes,No,No,"dau chirie in Cluj: spatioasa, pat dublu, vedere la piscina, 439eur,fara cheltuieli",Negative
+342,Simple,Real,No,Yes,No,AU ZIS CA VOR SEMIFINALE LA EURO,Negative
+299,Simple,Fake,Yes,No,No,Sper sa-i placa lu' Liviu cadoul moșului...,Neutral
+133,Combination,Fake,No,No,No,"- de când sunteți la muncă în Italia ?  - Sunt acolo deja al 15-lea an  -wow, deci cred că aveți mulți bani  eu:",Negative
+335,Simple,Real,No,Yes,No,SI VREI SA SPUI CA ROMANIA A TERMINAT PE PRIMUL LOC IN PRELIMINARII?,Negative
+44,Combination,Real,No,No,No,"Buzunarul stang 
+Buzunarul drept",Neutral
+426,Simple,Real,No,Yes,No,CÂND NU VREI SĂ SIMTĂ TAC-TU CĂ AI FUMAT IN MASINA LUI,Neutral
+65,Combination,Real,No,Yes,No,"MASCA ESTE OBLIGATORIE! 
+ROMÂNII:",Negative
+283,Simple,Real,Yes,No,No,pnl veniturile IT-istilor,Negative
+85,Simple,Real,Yes,Yes,No,"VII ASTĂ-SEARĂ PE LA MINE? 
+AM APĂ CALDĂ.",Negative
+242,Simple,Real,Yes,Yes,No,JE SUIS BĂIATU DE LA USR CU CASCADA MINIMALISTĂ.,Neutral
+186,Simple,Real,No,No,No,Când realizezi că nu ai slăbit nici anul ăsta!,Negative
+159,Simple,Real,No,Yes,No,CND MERGI CU RATB ȘI TE PRINDE CONTROLORUL FĂRĂ BILET,Negative
+12,Simple,Fake,Yes,No,No,"UBB: -Ai plagiat 
+Politician român",Negative
+35,Simple,Real,No,Yes,No,FRATE?,Neutral
+28,Combination,Real,No,No,No,Rasismul explcat idioților,Negative
+170,Combination,Fake,No,Yes,No,CAND TE PUNE CINEVA LA TREABA,Negative
+142,Simple,Fake,No,No,No,Studenții de peste hotare în primul lor an de cămin:,Negative
+369,Combination,Real,No,No,No,Zi de nastere in anii 2000:,Positive
+407,Simple,Real,No,No,No,"Tu mi faci inima sã bată
+Cum nu o face nicio fată",Neutral
+221,Simple,Real,Yes,No,No,Putina lume stie ca buzunarul cel mic de la blugi este pentru salariu,Negative
+95,Simple,Real,No,No,No,"Eu și prietena mea în cămin la 12 noaptea, ne certăm cu paznicul @studentnews.info",Negative
+51,Simple,Fake,No,No,No,"Vanzatoarea : 
+- Sunt 62 de lei. 
+-Am 100. 
+-Da-mi 12 sa-ti dau 50, sau 2 sa-ti dau 40. 
+Eu :",Negative
+240,Combination,Fake,No,No,No,"Cum e, ma, sa fi insurat? Super tare! masimt de parca as avea iarasi 16 ani! Adica? Fumez in toaleta, beau pe ascuns..",Negative
+356,Simple,Real,Yes,No,No,"Succes, Joe Biden!",Negative
+378,Combination,Real,Yes,No,No,"Profesorii: *fac grevă, iar orele nu se tin*
+Elevii care nu sunt an terminal:",Negative
+178,Simple,Real,No,Yes,No,SI VREI SA SPUI CA ROMANIA A TERMINAT PE PRIMUL LOC IN PRELIMINARII?,Negative
+41,Simple,DeepFake,Yes,Yes,No,SELLY LA SUMMIT-UL NATO,Neutral
+392,Simple,Real,No,No,No,Sună mã si te rezolv...,Positive
+206,Combination,Real,No,No,No,"Învârtitoarea când aveam 6 ani  Învârtitoarea acum, atză-o-ar focu",Negative
+282,Simple,Real,Yes,No,No,"Cand esti IT-ist, votezi pnl si iti dai seama ca o sa iti puna impozit pe venit",Negative
+254,Combination,Fake,Yes,Yes,No,"NU ȘTIE NICI MĂCAR SĂ CALCULEZE DEBITUL UNUI RÂU! BOSS, SUNTEM AICI SĂ FURĂM, NU SĂ CALCULĂM!",Negative
+383,Simple,Fake,No,No,No,"Cluj
+120k ron",Negative
+4,Simple,Real,No,No,No,"Dorel electricianul : *Face o improvizație la sistemul electric* 
+Eu, pe patul de ATI :",Negative
+256,Simple,Fake,Yes,No,No,"Spune-mi lucruri murdare! București, Sector 1",Neutral
+416,Simple,Real,No,No,Yes,"""de ce nu vrei sa intrii la o cafea?""
+sosetele mele:",Neutral
+100,Simple,Real,No,Yes,No,"SPUNE, UNDE ESTE PARTENERUL TĂU ?",Neutral
+226,Combination,Real,Yes,No,No,In Canada folosesc abtibilduri pentru a reduce viteza masinilor. In Romnia folosec versiunea in 3D!,Negative
+396,Simple,Real,No,No,No,"Hey, scuze, cred ca m-ai lăsat cu seen din greseala",Neutral
+213,Simple,Real,No,No,No,Pe mine mă cheamă George Pe mine nu,Negative
+171,Simple,Real,No,Yes,No,FANII ROMANIEI ASTEPTAND UN GOL CU LIECHTENSTEIN,Negative
+98,Simple,Real,No,Yes,No,"CE DACĂ FATA PE CARE O PLACI ARE IUBIT? 
+ȘI FOTBALUL ARE PORTAR ȘI TOT DAI GOL...",Neutral
+292,Simple,Fake,Yes,No,No,"Toată lumea: PSD-ule, scapa de baroni,Tutankhamoni, reformează-te!! PSD: NO #memepolitice",Positive
+215,Combination,Real,No,Yes,No,M-AM SATURAT DE VIATA ASTA... MAI BINE MA DUC SA-MI IAU BERE,Negative
+61,Combination,Real,Yes,No,No,"Bună ziua! Mă numesc Alex Nedea și sunt jurnalist la Recorder. 
+Om de afaceri cu legături politice 
+Aș vrea să vă pun câteva întrebări... 
+...legate de contractele firmei dumneavoastră cu statul român.",Negative
+47,Simple,Real,Yes,No,No,"""Securist încercând să-nțeleagă nota informativă a lui Nicușor Dan""",Neutral
+32,Simple,Real,No,No,No,"Sunt pe dieta! 
+Mănânc doar morcovi",Negative
+267,Simple,Fake,Yes,No,No,Camera Deputaților a aprobat tacit autonomia Ținutului Secuiesc Legea pică în Senat Și oricum e neconstituțională Români mândri,Positive
+327,Simple,Fake,Yes,No,No,"Si, uitati, atat va face PSD-ul coada vulpii!",Neutral
+200,Combination,Real,No,No,No,Vreau să demonstrez bărbaților că și femeile știu să parcheze! - GATA!,Negative
+414,Simple,Fake,No,No,No,Mă pun la somn să mă odihnesc si visez că lucrez,Neutral
+27,Simple,Real,No,Yes,No,"BAC 
+TU",Negative
+361,Simple,Real,Yes,No,No,Facem weekendul de 5 zile,Neutral
+230,Simple,Real,No,No,No,"Ce-ar fi dacă, de mâine, am încerca să mâncăm sănătos? Ai înebunit?!? Acum, când avem nevoie de toți conservanții...",Positive
+260,Simple,Fake,Yes,Yes,No,CÂND TE ÎNTREABĂ PRESA DE PNL,Negative
+288,Simple,Fake,No,No,No,Antrenorii de fitness în luna ianuarie 2020 be like:,Positive
+162,Simple,Fake,No,No,No,"Mihai Viteazul, pe punctul de a-l infrunta pe Sinan Pasa, cca. 1595",Neutral
+394,Combination,Real,No,No,No,"CATALIN, Al LEGATURA!
+Da Andrea am legătura",Neutral
+138,Combination,Fake,No,No,No,"Când te-ai jucat până dimineața online, și aucm trebuie să intri în conference call pentru lecția online",Negative
+62,Simple,Fake,No,No,No,"În drum spre parcarea laterală după ce ți-a murit motorul de 12 ori deja 
+Examen",Negative
+135,Combination,Fake,No,No,No,Copiii tăi când nu faci nimic vs. copiii tăi când intri în conference call cu colegii de la lucru,Negative
+128,Combination,Fake,No,No,No,"Când ai terminat să speli podeaua, dar ți-ai uitat telefonul în laltă cameră",Neutral
+440,Simple,Real,No,No,No,"Când cineva îmi zice ""iar mănânci?""",Neutral
+8,Combination,Fake,No,No,Yes,"de post 
+vegan",Neutral
+326,Simple,Fake,Yes,No,No,Uniunea Sobolanim Romania,Negative
+429,Simple,Real,No,No,No,Când ești in perfectă armonie cu natura.,Neutral
+64,Combination,Real,Yes,No,No,"Da bani la profesori or draw 25 
+Guvern",Negative
+300,Combination,Real,Yes,Yes,No,AVETI SUGURANTA ZILEI DE MAINE? NU NU NU DA,Negative
+14,Simple,Real,No,No,No,După atâția ani de matematica am găsit radacina pătrată,Positive
+156,Simple,Real,No,No,No,Cu proful ăla șmecher la ora deschisă în parc,Positive
+40,Combination,Fake,No,No,No,"500 LEI 
+O eugenie",Negative
+425,Combination,Real,No,No,No,"Noaptea in alte tări.
+Noaptea in România.",Negative
+374,Simple,Fake,Yes,No,No,"> devine ministrul educatiei
+> FUTE TOT SISTEMUL
+> nu elaboreaza
+> isi da demisia",Negative
+216,Simple,Real,No,No,No,"Buni, ce vârstă ai? Draga mea sunt așa de bătrână că nu mai știu Te poți uita pe eticheta chiloților, la mine scrie 5-6 ani",Negative
+279,Combination,Real,Yes,Yes,No,LINKEDIN FACEBOOK INSTAGRAM TINDER,Neutral
+402,Simple,Real,No,Yes,No,AI GRIJA CE SPUI CA NU TE MAI SPOVEDESC,Negative
+398,Simple,Fake,No,Yes,No,AI DE PLM,Negative
+337,Simple,Real,No,Yes,No,"LASA-L PE AVARII, BOSS, CA NU STAM MULT",Negative
+236,Simple,Fake,No,Yes,No,"-STAI, MĂRIE, CĂ NU-ȚI FAC NIMIC! - PĂI, DACĂ NU ÎMI FACI NIMIC, DE CE SĂ STAU?",Neutral
+207,Simple,Real,Yes,No,No,VÂND CASĂ cu vedere spre viitor...,Negative
+212,Simple,Real,No,No,No,"- Tată, vino urgent acasă! - N-am cum sunt internat, am Covid-19... - Treaba ta, mama îți vinde undițele la prețul la care i-ai zis că le-ai cumpărat.",Positive
+295,Simple,Real,Yes,No,No,"Ce capitală are Marea Britanie? Mă ia de proastă! Ce, eu nu știu că mările nu au capitală?",Neutral
+423,Combination,Real,No,No,No,"- Nu o să mai găsesti niciuna ca mine!
+- Aşa să m-ajute Dumnezeu",Neutral
+251,Simple,DeepFake,Yes,No,No,Gaura din buget Florin Cîțu Parlamentul Eliminarea gratuității la tren pentru studenți,Negative
+451,Combination,Fake,No,No,No,"Eu la 13 ani: Cum am făcut 18 ani dau de carnet și îmi iau mașină
+Eu la 18 ani:",Neutral
+424,Simple,Fake,Yes,No,Yes,îti arät eu revoltă imediat...,Negative
+303,Simple,Real,No,No,No,"""It's over Anakin, I have the playgroud""",Positive
+350,Simple,Real,Yes,No,No,"Daca intram in Shengen acum, e doar meritul PSD. Fara PSD, intram de mult.",Positive
+269,Simple,Fake,Yes,Yes,No,NU TE SUPĂRA FRATE!,Negative
+201,Combination,Fake,No,No,No,"Ultimii mei bani ii voi folosii pentru urgente..   Un Ciucaș, vă rog",Neutral
+161,Simple,Fake,No,No,No,"Savant din Evul Mediu  incercand sa obtina aurul prin alchimie, cca. 1137",Neutral
+43,Simple,Real,No,No,No,Prima mea intalnre cu Irina eram la ea la poartă si ieșise măsa-mare  s-o strige că i a făcut urzici cu niște ouă ochi,Neutral
+217,Simple,Real,No,No,No,Vreți ceva de băut? Între ce pot să aleg? Între Da și NU!,Positive
+190,Simple,Real,No,Yes,No,LISTA CU ALIMENTELE SANATOASE  PE CARE LE-AI MANCAT RECENT,Negative
+309,Simple,Fake,Yes,No,No,Spune-i mosului o poezie,Neutral
+259,Simple,Real,Yes,Yes,No,CÂND VREI SĂ FACI DECLARAȚIE DE DRAGOSTE DAR AI PIERDUT INELUL ÎN SACII DE VOT,Neutral
+105,Simple,Fake,No,Yes,No,CÂINELE MEU CÂND MĂNÂNC CEVA:,Neutral
+53,Simple,Real,Yes,Yes,No,DUPĂ ALEGERI DEVIN VEGETARIAN,Negative
+389,Simple,Fake,No,No,Yes,sa mori tu,Neutral
+1,Combination,Fake,Yes,No,Yes,"cine e impotriva pensiilor  speciale
+cine vrea sa protesteze impotriva pensiilor speciale",Negative
+409,Simple,Real,No,Yes,No,"RO ALERT
+EU",Negative
+446,Simple,Real,No,No,No,"CIORBĂ DE BERISOARE, urmăriți-ne pentru mai multe rețete!!",Neutral
+49,Simple,DeepFake,No,No,No,"BIBLIOTECA PENTRU TOȚI COPIII
+AMINTIRI DIN COPILĂRIE 
+Ion Creangă",Positive
+80,Simple,Real,No,Yes,No,"PROFESORUL: NU PUTEȚI SĂ FOLOSIȚI TELEFOANELE, CEASURILE INTELIGENTE SAU LAPTOPUI-LE LA TEST. 
+EU:",Neutral
+205,Simple,Real,No,No,No,Cât de des se prăbișesc avioanele?  Doar o dată!,Neutral
+34,Simple,Real,No,No,No,Următorul task este să îți faci temele fără acces la internet,Negative
+263,Simple,Real,Yes,No,No,PNL Economia României 04.11.2019 - 04.05.2020 imminvest,Neutral
+366,Simple,Real,No,No,No,Bunica pregătită să-mi dea perversa după ce i-am zis că nu imi e foame,Negative
+91,Simple,Fake,No,Yes,No,"SPEIȘ 
+THE FINAL FRONTIER",Neutral
+339,Simple,DeepFake,No,Yes,No,CAND ESTI PORTAR SI AI NECI CONTRA ROMANIEI,Neutral
+437,Simple,Real,No,No,No,Atunci când te intorci de la muncă din Italia si trebuie sã te culci din nou cu souțl tău pe gratis...,Negative
+52,Simple,DeepFake,No,No,No,Cand tai un copac in Sibiu,Positive
+345,Simple,DeepFake,Yes,No,No,"Un fost Carmaci, care nu mai stia cum sa creasca populatia tarii, alaturi de in actual Carpaci, care nu maki stie cum s-o scalda",Neutral
+264,Combination,Fake,Yes,No,No,PNL în opoziție PNL la guvernare,Negative
+241,Simple,Real,Yes,Yes,No,"CIOLOȘ! CIOLOȘ, IEȘI MĂ! TE-A NOMINALIZAT IOHANIS.",Neutral
+13,Simple,DeepFake,No,Yes,No,"LIDL 
+RONALDO 
+7",Neutral
+315,Simple,Real,Yes,No,No,"Succes, Joe Biden!",Neutral
+88,Simple,Real,No,No,No,"Neamurile, de Sărbători: când te însori, când faci copii? 
+Eu: 
+Îmi produceți un stres teribil",Negative
+387,Simple,Real,No,Yes,No,"DESCOPERIRE ARHEOLOGICĂ!
+FARAON ÎN VASLUI",Neutral
+273,Simple,Real,Yes,No,No,Guvernul PNL,Positive
+166,Simple,Real,No,No,No,Când folosești calculatorul la examen ca să te asiguri că 4+5 e egal cu 9,Neutral
+328,Simple,Fake,Yes,No,No,"Doamna de fier ureaza Romaniei un calduros ""LAMULTEAN!""",Negative
+454,Simple,Real,No,No,No,Anestezie lași 2022,Negative
+134,Combination,Real,No,No,No,Fața mea când părinții au venit la școală să mă ia mai devreme de la lecții,Positive
+306,Simple,Real,No,No,Yes,my reaction to everything,Negative
+444,Simple,Real,No,No,No,"Întâi facem o poza sa punem pe story 
+Eu:",Neutral
+319,Simple,Real,No,No,No,Am injurat 100 de romani,Positive
+243,Simple,Fake,Yes,No,No,Uniunea Șobolănim* România UȘR,Neutral
+54,Simple,Fake,No,No,Yes,"firmele care fac bannere publicitare, în perioada alegerilor 
+stonks",Neutral
+363,Simple,Real,No,No,No,Noi angajați de la McDonald's când văd otravă de șoareci și plicuri de laxaive puse în sertarul ”Pentru clienți”,Negative
+50,Simple,DeepFake,Yes,Yes,No,SIFOANE,Negative
+174,Combination,Fake,No,No,No,"Eu: Ce tare e lupta asta din film, ar fi super dacă aș avea cum să o încerc și eu  Fratele meu mai mic:",Neutral
+189,Simple,Fake,No,Yes,No,DUPĂ CE VEZI CĂ HALEP A BĂTUT-O PE SHARAPOVA,Positive
+458,Simple,Real,No,Yes,No,"CAND INTRA HOȚII IN CASA
+SI TE UITI CUM CAUTA BANII PE CARE NU II AI",Negative
+187,Simple,Fake,No,No,No,Când ești nervoasă și îți spune iubitul să te calmezi,Negative
+169,Simple,Real,No,No,No,Când te gândești că e o idee bună să te duci la grătar în plină pandemie,Neutral
+58,Simple,Real,No,No,No,"Când ești cu naveta și aștepți să termine profesoara de vorbit la începutul ultimei ore, ca să ceri voie să pleci că îți pornește autobuzul imediat",Neutral
+48,Simple,Real,Yes,Yes,No,INCA 4 ANI CU BORDURI SI PALMIERI IN S3,Negative
+344,Simple,Real,Yes,Yes,No,"APOI LE_AM SPUS: ""SA TRAITI BINE!""",Positive
+235,Simple,Real,No,No,No,"Esti SPECIAL! DA, TU! Cel care citeste!",Positive
+252,Combination,Fake,Yes,No,No,"Revoluție, mineriadă, Roșia Montana, Colectiv, OUG 13 Burgeri moca și bilete gratuite de tren",Negative
+21,Simple,Real,No,Yes,No,"SĂ VEZI CE O SĂ SE BUCURE ȘEFU' 
+CĂ AM AJUNS PRIMII LA LOCUL ACCIDENTULUI",Negative
+313,Simple,Real,Yes,No,No,Am scapat la mustata,Positive
+160,Combination,Real,No,No,Yes,ea : îmi plac doar veganii  eu:,Neutral
+276,Simple,Real,Yes,No,No,"Câinele meu, când vede un chinez pe stradă - Ori îmi dă viruși, ori mă mănâncă",Negative
+191,Simple,Real,No,Yes,No,CUM TE SIMȚI  CÂND REPARI CEVA ÎN FAȚA PRIETENEI,Positive
+385,Combination,Fake,Yes,No,No,Când nu știi ce să alegi...,Negative
+293,Simple,Fake,Yes,No,No,GUVERN PNL Relații Pile #memepolitice,Positive
+413,Combination,Real,No,No,No,Intotdeauna se găseste o prietenă căreia să-i fie frică la filmele de groaza,Neutral
+343,Simple,Fake,Yes,No,No,"Si acum, va declar HOT si HOTIE",Positive
+257,Combination,Fake,Yes,Yes,No,FLORIN CÎȚU FUNCȚIA DE PREMIER LUDOVIC ORBAN FUNCȚIA DE PREMIER,Negative
+308,Simple,Fake,Yes,No,No,"Eu, uitandu-ma pe ultimile sondaje politice din Romania",Negative
+149,Combination,Fake,No,No,No,Nicolae Stanciu de fiecare dată când vede mingea la 30 de metri de poartă,Positive
+130,Simple,Real,No,No,No,"Când trebuie să feliciți pe cineva, și deja ai folosit cuvintele ""sănătate"" și ""fericire""",Neutral
+151,Simple,Real,No,Yes,No,EȘTI DIN ROMÂNIA DACĂ  MAI ÎNTÂI SE ASFALTEAZĂ STRĂZILE ȘI DUPĂ ACEEA SE BAGĂ ȚEVILE,Negative
+359,Simple,Real,Yes,No,No,Panouri solare care merg si noaptea Pentru toti romanii,Neutral
+99,Simple,Real,Yes,No,No,"""Marian, bine că mi-ai adus telefonul, imbecilul dracului""",Negative
+372,Combination,Real,No,Yes,No,"ÎN SFARSIT
+STAȚIUNEA TATAIA",Neutral
+87,Simple,Real,Yes,Yes,No,CINE A NINS SĂ STRÂNGĂ,Negative
+330,Simple,Real,Yes,Yes,No,GATA CU DROGURILE !,Negative
+214,Simple,Real,No,No,No,NU LE PIPĂIȚ  Spune NU pipăițului!,Neutral
+121,Combination,Fake,No,No,No,Când te-ai gătit 3 ore ca să ieși la întâlnire și el a decis că nu vă mai puteți vedea azi,Negative
+461,Simple,Real,No,No,Yes,cu berea in mana si cu gandul la tine,Positive
+20,Simple,Real,No,No,No,Pentru cine a zis ca matematica nu e folositoare,Neutral
+188,Simple,Fake,No,Yes,No,FIECARE ROMAN DE BLACK FRIDAY  TACI SI IA-MI BANII!,Neutral
+71,Simple,Fake,No,Yes,No,ȘTII CĂ BANANELE AU ACELE PETE NEGRE PENTRU CĂ ORGANIZEAZĂ LUPTE ILEGALE NOAPTEA?,Neutral
+106,Combination,Fake,Yes,No,No,Așteptând să vină apa caldă,Negative
+270,Simple,Real,Yes,No,No,PNL Nicușor Dan,Neutral
+348,Simple,Real,Yes,No,No,"Ciolacu povesteste cum a luptat la Revolutie: "" Pe 25 Decembrie, am iesit de sub pat si am strigat JOS RATIU!""",Positive
+435,Combination,Real,No,No,No,Când vă despartiti si vă cereti cadourile inapoi.,Neutral
+102,Simple,Fake,No,No,No,Mama uitandu-se la mine in timp ce pun o farfurie murdara in chiuveta proaspat golita,Negative
